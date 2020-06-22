@@ -10,6 +10,6 @@ Code
 
 ### fun problems
 
-| topic | Title | Solution | Difficulty |
-|-------| ----- | -------- | ---------- |
-|topolocigal sort||||
+| topic | Title | Solution |
+|-------| ----- | -------- |
+|topolocigal sort|[compile source file](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
