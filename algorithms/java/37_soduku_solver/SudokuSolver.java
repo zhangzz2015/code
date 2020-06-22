@@ -1,4 +1,5 @@
 public class SudokuSolver {
+    // board size
     static final int ROW_LEN = 9;
     static final int COL_LEN = 9;
     public void solveSudoku(char[][] board) {
