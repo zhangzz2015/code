@@ -14,9 +14,7 @@ public class SudokuSolver {
   
     private boolean fillOutSudoku(char[][] board, int position, boolean[][] rowVisited, boolean[][] colVisited,
                                   boolean[][] blockVisited) {
-        if (position == 81) {
-            return true;
-        }
+        if (position == 81) return true;
         int row = position / COL_LEN;
         int col = position % COL_LEN;
         if (board[row][col] == '.') {
