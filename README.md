@@ -5,7 +5,7 @@ Code
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|37|[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/)|[Java](./algorithms/java/37_soduku_solver/SudokuSolver.java)|hard|
+|37|[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/)|[Java](./algorithms/java/37_soduku_solver/SudokuSolver.java)|[hard](./algorithms/java/37_soduku_solver/README.md)|
 
 
 ### fun problems
