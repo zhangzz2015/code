@@ -51,15 +51,14 @@ public class SearchInsert {
         int target1 = 5; // expect return 2
         int[] input2 = {1, 3, 3, 3, 5, 6};
         int target2 = 3; // expect return 2
-        int[] input3 = {1, 3, 5, 6};
         int target3 = 7; // expect return 4
         SearchInsert solution = new SearchInsert();
         System.out.println(solution.searchInsert(input1, target1));
         System.out.println(solution.searchInsert(input2, target2));
-        System.out.println(solution.searchInsert(input3, target3));
+        System.out.println(solution.searchInsert(input1, target3));
         System.out.println("**************");
         System.out.println(solution.searchInsert1(input1, target1));
         System.out.println(solution.searchInsert1(input2, target2));
-        System.out.println(solution.searchInsert1(input3, target3));
+        System.out.println(solution.searchInsert1(input1, target3));
     }
 }
