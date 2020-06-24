@@ -18,11 +18,11 @@ public class RotatedSearch {
     }
 
     public static void main(String[] args) {
-        int[] input1 = {4, 5, 6, 7, 0, 1, 2};
+        int[] input = {4, 5, 6, 7, 0, 1, 2};
         int target1 = 0; // expexted output 4
         int target2 = 3; // expexted output -1
         RotatedSearch solution = new RotatedSearch();
-        System.out.println(solution.search(input1, target1));
-        System.out.println(solution.search(input1, target2));
+        System.out.println(solution.search(input, target1));
+        System.out.println(solution.search(input, target2));
     }
 }
