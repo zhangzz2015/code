@@ -4,8 +4,6 @@ First, we need to model this kind of dependencies into a graph. I think we can u
 
 Assume we don’t have a cycle dependency because that means we couldn't give an order.
 
-To represent the source file we can use a class
-
-and our input can be a List<SourceFile>, and we need to output a List<String>.
+To represent the source file we can use a class, and our input can be a List<SourceFile>, and we need to output a List<String>.
 
 I think we are going to use topological sort to solve this problem.
