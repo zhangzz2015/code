@@ -17,8 +17,8 @@ public class FindMin {
     }
 
     public static void main(String[] args) {
-        int[] input1 = {1, 3, 5}; // expected 1
-        int[] input2 = {2, 2, 2, 0, 1}; // expected 0
+        int[] input1 = {1, 3, 5}; // expected output 1
+        int[] input2 = {2, 2, 2, 0, 1}; // expected output 0
         FindMin solution = new FindMin();
         System.out.println(solution.findMin(input1));
         System.out.println(solution.findMin(input2));
