@@ -93,11 +93,11 @@ public class FilesCompileOrder {
         // Order: file1, file2, file3
         FilesCompileOrder filesCompileOrder = new FilesCompileOrder();
         List<SourceFile> order1 = filesCompileOrder.getCompileOrderDFS(List.of(sourceFile1, sourceFile2, sourceFile3));
-        System.out.println("DFS:");
+        System.out.println("DFS(order up to down):");
         for (SourceFile f : order1) {
             System.out.println("f = " + f.name);
         }
-        System.out.println("BFS:");
+        System.out.println("BFS(order up to down):");
         List<SourceFile> order2 = filesCompileOrder.getCompileOrderBFS(List.of(sourceFile1, sourceFile2, sourceFile3));
         for (SourceFile f : order2) {
             System.out.println("f = " + f.name);
