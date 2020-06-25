@@ -11,6 +11,7 @@ Code
 |81|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/81_search_in_rotated_sorted_array_2/RotatedSearch.java)|[medium](./algorithms/java/81_search_in_rotated_sorted_array_2/README.md)|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./algorithms/java/153_find_minimum_in_rotated_sorted_array/FindMin.java)|[medium](./algorithms/java/153_find_minimum_in_rotated_sorted_array/README.md)|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/154_find_minimum_in_rotated_sorted_array_2/FindMin.java)|[hard](./algorithms/java/154_find_minimum_in_rotated_sorted_array_2/README.md)|
+|1095|[Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)|[Java](./algorithms/java/1095_find_in_mountain_array/MountainArray.java)|[hard](./algorithms/java/1095_find_in_mountain_array/README.md)|
 
 ### fun problems
 
