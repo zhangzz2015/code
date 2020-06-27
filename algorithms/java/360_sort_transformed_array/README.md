@@ -7,5 +7,5 @@
 * **a < 0**:
     fill the result from index length - 1 to 0 with: find the largest smaller or equal than - b / (2a), and 谁小移谁
 
-Time: O(logn + k)<br>
+Time: O(logn + n)<br>
 Space: O(1) 
