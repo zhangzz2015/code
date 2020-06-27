@@ -55,6 +55,7 @@ class SortTransformed {
         }
         if (nums[right] <= target) return right;
         if (nums[left] <= target) return left;
+        // cannot find
         return -1;
     }
 }
