@@ -2,7 +2,7 @@ class SortTransformed {
     public int[] sortTransformedArray(int[] nums, int a, int b, int c) {
         int[] res = new int[nums.length];
         if (a == 0) {
-            for (int i = 0; i < nums.length; i++) {
+            for (int i = 0; i < nums.length; ++i) {
                 if (b > 0) {
                     res[i] = get(nums[i], a, b, c);
                 } else {
@@ -15,19 +15,23 @@ class SortTransformed {
         int left = largestSmallerEqual(nums, mid);
         int right = left + 1;
         if (a > 0) {
-            for (int i = 0; i < nums.length; i++) {
+            for (int i = 0; i < nums.length; ++i) {
                 if (right >= nums.length || left >= 0 && Math.abs(mid - nums[left]) < Math.abs(mid - nums[right])) {
-                    res[i] = get(nums[left--], a, b, c);
+                    res[i] = get(nums[left], a, b, c);
+                    --left;
                 } else {
-                    res[i] = get(nums[right++], a, b, c);
+                    res[i] = get(nums[right], a, b, c);
+                    ++right;
                 }
             }
         } else {
-            for (int i = nums.length - 1; i >= 0; i--) {
+            for (int i = nums.length - 1; i >= 0; --i) {
                 if (right >= nums.length || left >= 0 && Math.abs(mid - nums[left]) < Math.abs(mid - nums[right])) {
-                   res[i] = get(nums[left--], a, b, c);
+                   res[i] = get(nums[left], a, b, c);
+                   --left;
                 } else {
-                    res[i] = get(nums[right++], a, b, c);
+                    res[i] = get(nums[right], a, b, c);
+                    ++right;
                 }
             }
         }
