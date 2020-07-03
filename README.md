@@ -26,5 +26,6 @@ Code
 |binary search|[Random Generator](./algorithms/java/fun_random_generator/README.md)|[Java](./algorithms/java/fun_random_generator/RandomGenerator.java)|
 |sliding window|[Most Online Virtual Machines](./algorithms/java/fun_most_online_virtual_machines/MostVirtualMachines.java)|[Java](./algorithms/java/fun_most_online_virtual_machines/README.md)|
 |tree|[Equivalent Trees](./algorithms/java/fun_equivalent_trees/README.md)|[Java](./algorithms/java/fun_equivalent_trees/EquivalentTrees.java)|
+|tree|[Populate Next Pointer](./algorithms/java/fun_populate_next_pointers/README.md)|[Java](./algorithms/java/fun_populate_next_pointers/PopulateNextPointers.java)|
 |topolocigal sort|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
