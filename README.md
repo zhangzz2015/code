@@ -29,3 +29,4 @@ Code
 |tree|[Populate Next Pointer](./algorithms/java/fun_populate_next_pointers/README.md)|[Java](./algorithms/java/fun_populate_next_pointers/PopulateNextPointers.java)|
 |topolocigal sort|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
+|dp|[Largest Square Sum](./algorithms/java/fun_largest_square_sum/README.md)|[Java](./algorithms/java/fun_largest_square_sum/LargestSquareSum.java)|
