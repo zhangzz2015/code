@@ -10,7 +10,8 @@ Code
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|[Java](./algorithms/java/35_search_insert_position/SearchInsert.java)|[easy](./algorithms/java/35_search_insert_position/README.md)|
 |37|[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/)|[Java](./algorithms/java/37_soduku_solver/SudokuSolver.java)|[hard](./algorithms/java/37_soduku_solver/README.md)|
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|[Java](./algorithms/java/53_maximum_subarray/MaxSubarray.java)|[easy](./algorithms/java/53_maximum_subarray/README.md)|
-|69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|[Java](/algorithms/java/69_sqrtx/Sqrt.java)|[easy](/algorithms/java/69_sqrtx/README.md)|
+|69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|[Java](./algorithms/java/69_sqrtx/Sqrt.java)|[easy](./algorithms/java/69_sqrtx/README.md)|
+|74|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)|[Java](./algorithms/java/74_search_a_2d_matrix/SearchMatrix.java)|[medium](./algorithms/java/74_search_a_2d_matrix/README.md)|
 |81|[Search in Rotated Sorted Array II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/81_search_in_rotated_sorted_array_2/RotatedSearch.java)|[medium](./algorithms/java/81_search_in_rotated_sorted_array_2/README.md)|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./algorithms/java/153_find_minimum_in_rotated_sorted_array/FindMin.java)|[medium](./algorithms/java/153_find_minimum_in_rotated_sorted_array/README.md)|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/154_find_minimum_in_rotated_sorted_array_2/FindMin.java)|[hard](./algorithms/java/154_find_minimum_in_rotated_sorted_array_2/README.md)|
