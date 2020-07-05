@@ -17,6 +17,7 @@ Code
 |360|[Sort Transformed Array](https://leetcode-cn.com/problems/sort-transformed-array/)|[Java](./algorithms/java/360_sort_transformed_array/SortTransformed.java)|[medium](./algorithms/java/360_sort_transformed_array/README.md)|
 |1060|[Missing Element in Sorted Array](https://leetcode-cn.com/problems/missing-element-in-sorted-array/)|[Java](./algorithms/java/1060_missing_element_in_sorted_array/MissingElement.java)|[medium](./algorithms/java/1060_missing_element_in_sorted_array/README.md)|
 |1095|[Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)|[Java](./algorithms/java/1095_find_in_mountain_array/MountainArray.java)|[hard](./algorithms/java/1095_find_in_mountain_array/README.md)|
+|1228|[Missing Number in Arithmetic Progression](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression/)|[Java](./algorithms/java/1228_missing_number_in_arithmetic_progression/MissingNumber.java)|[easy](./algorithms/java/1228_missing_number_in_arithmetic_progression/README.md)|
 
 ### fun problems
 
@@ -24,7 +25,7 @@ Code
 |-------| ----- | -------- |
 |binary search|[Find Local Minimum](./algorithms/java/fun_find_local_minimum_in_unsorted_array/README.md)|[Java](./algorithms/java/fun_find_local_minimum_in_unsorted_array/FindLocalMin.java)|
 |binary search|[Random Generator](./algorithms/java/fun_random_generator/README.md)|[Java](./algorithms/java/fun_random_generator/RandomGenerator.java)|
-|sliding window|[Most Online Virtual Machines](./algorithms/java/fun_most_online_virtual_machines/MostVirtualMachines.java)|[Java](./algorithms/java/fun_most_online_virtual_machines/README.md)|
+|sliding window|[Most Online Virtual Machines](./algorithms/java/fun_most_online_virtual_machines/README.md)|[Java](./algorithms/java/fun_most_online_virtual_machines/MostVirtualMachines.java)|
 |tree|[Equivalent Trees](./algorithms/java/fun_equivalent_trees/README.md)|[Java](./algorithms/java/fun_equivalent_trees/EquivalentTrees.java)|
 |tree|[Populate Next Pointer](./algorithms/java/fun_populate_next_pointers/README.md)|[Java](./algorithms/java/fun_populate_next_pointers/PopulateNextPointers.java)|
 |topolocigal sort|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
