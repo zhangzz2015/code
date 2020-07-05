@@ -8,7 +8,7 @@ class SmallerEqual {
             if (matrix[i][j] > target) j--; // still on the current row finding the rightmost j
             else { // on the current row first time meet the rightmost j, matrix[i][j] <= target
                 i++; // go to the next row
-                count += j + 1;
+                count += j + 1; // count the numbers
             }
         }
         // !!! important implementation detail: terminate condition
