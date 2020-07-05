@@ -26,6 +26,7 @@ Code
 |-------| ----- | -------- |
 |binary search|[Find Local Minimum](./algorithms/java/fun_find_local_minimum_in_unsorted_array/README.md)|[Java](./algorithms/java/fun_find_local_minimum_in_unsorted_array/FindLocalMin.java)|
 |binary search|[Random Generator](./algorithms/java/fun_random_generator/README.md)|[Java](./algorithms/java/fun_random_generator/RandomGenerator.java)|
+|binary search|[Smaller Equal in 2D Matrix](./algorithms/java/fun_smaller_equal_in_2d_matrix/README.md)|[Java](./algorithms/java/fun_smaller_equal_in_2d_matrix/SmallerEqual.java)|
 |sliding window|[Most Online Virtual Machines](./algorithms/java/fun_most_online_virtual_machines/README.md)|[Java](./algorithms/java/fun_most_online_virtual_machines/MostVirtualMachines.java)|
 |tree|[Equivalent Trees](./algorithms/java/fun_equivalent_trees/README.md)|[Java](./algorithms/java/fun_equivalent_trees/EquivalentTrees.java)|
 |tree|[Populate Next Pointer](./algorithms/java/fun_populate_next_pointers/README.md)|[Java](./algorithms/java/fun_populate_next_pointers/PopulateNextPointers.java)|
