@@ -6,6 +6,6 @@ time: O(n^2)
 space: O(n)
 
 ## Solution 2
-for the searching part we can use binary search to optimize the time complexity.<br>
+This is kind of a greedy way. sequence[] we store the subsequence in the position of index 0 to index of found replacement index. For each element int the array we use binary search to find the index that the element can be fit into the array, and we replace that in the sequence[]. We can always replace that because smaller elements can replace the larger element without breaking the rule and have can have more options for elements after.<br>
 time: O(nlogn)
 space: O(n)
