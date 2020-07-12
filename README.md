@@ -6,6 +6,7 @@ Code
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|[Java](./algorithms/java/1_two_sum/TwoSum.java)|[easy](./algorithms/java/1_two_sum/README.md)|
+|15|[3Sum](https://leetcode-cn.com/problems/3sum/)|[Java](./algorithms/java/15_3sum/ThreeSum.java)|[medium](./algorithms/java/15_3sum/README.md)|
 |29|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers/)|[Java](./algorithms/java/29_divide_two_integers/Divide.java)|[medium](./algorithms/java/29_divide_two_integers/README.md)|
 |33|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[Java](./algorithms/java/33_search_in_rotated_sorted_array/RotatedSearch.java)|[medium](./algorithms/java/33_search_in_rotated_sorted_array/README.md)|
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|[Java](./algorithms/java/35_search_insert_position/SearchInsert.java)|[easy](./algorithms/java/35_search_insert_position/README.md)|
