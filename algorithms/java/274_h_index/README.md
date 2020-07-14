@@ -5,6 +5,6 @@ Because the h-index can onlt be in range [0, length], we can use counting sort w
     search range: 0 1 2 3 4 5 >=6
     occurrence:   1 1 0 0 1 1  1
     # >= x:       5 4 3 3 3 2  1
-Go from right to left sum up the number of occurrence of each element. When we find first x <= (# >= x)<br>
+Go from right to left sum up the number of occurrence of each element, untill we find first x <= (# >= x)<br>
 time: O(n)<br>
 space: O(n)
