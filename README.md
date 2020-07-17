@@ -37,6 +37,7 @@ Code
 |binary search|[Smaller Equal in 2D Matrix](./algorithms/java/fun_smaller_equal_in_2d_matrix/README.md)|[Java](./algorithms/java/fun_smaller_equal_in_2d_matrix/SmallerEqual.java)|
 |binary search|[Larger in 2D Matrix](./algorithms/java/fun_larger_in_2d_matrix/README.md)|[Java](./algorithms/java/fun_larger_in_2d_matrix/Larger.java )|
 |sliding window|[Most Online Virtual Machines](./algorithms/java/fun_most_online_virtual_machines/README.md)|[Java](./algorithms/java/fun_most_online_virtual_machines/MostVirtualMachines.java)|
+|sliding window|[Max weight Sum(follow up)](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
 |tree|[Equivalent Trees](./algorithms/java/fun_equivalent_trees/README.md)|[Java](./algorithms/java/fun_equivalent_trees/EquivalentTrees.java)|
 |tree|[Populate Next Pointer](./algorithms/java/fun_populate_next_pointers/README.md)|[Java](./algorithms/java/fun_populate_next_pointers/PopulateNextPointers.java)|
 |tree|[Outside to Inside](./algorithms/java/fun_outside_to_inside/README.md)|[Java](./algorithms/java/fun_outside_to_inside/OutsideToInside.java)|
@@ -44,3 +45,4 @@ Code
 |topolocigal sort|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
 |dp|[Largest Square Sum](./algorithms/java/fun_largest_square_sum/README.md)|[Java](./algorithms/java/fun_largest_square_sum/LargestSquareSum.java)|
+|dp|[Max weight Sum](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
