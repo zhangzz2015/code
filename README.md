@@ -36,6 +36,7 @@ Code
 |binary search|[Random Generator](./algorithms/java/fun_random_generator/README.md)|[Java](./algorithms/java/fun_random_generator/RandomGenerator.java)|
 |binary search|[Smaller Equal in 2D Matrix](./algorithms/java/fun_smaller_equal_in_2d_matrix/README.md)|[Java](./algorithms/java/fun_smaller_equal_in_2d_matrix/SmallerEqual.java)|
 |binary search|[Larger in 2D Matrix](./algorithms/java/fun_larger_in_2d_matrix/README.md)|[Java](./algorithms/java/fun_larger_in_2d_matrix/Larger.java )|
+|sorting|[Selection Sort](./algorithms/java/fun_selection_sort/README.md)|[Java](./algorithms/java/fun_selection_sort/SelectionSort.java)|
 |sorting|[Heap Sort](./algorithms/java/fun_heap_sort/README.md)|[Java](./algorithms/java/fun_heap_sort/HeapSort.java)|
 |sliding window|[Most Online Virtual Machines](./algorithms/java/fun_most_online_virtual_machines/README.md)|[Java](./algorithms/java/fun_most_online_virtual_machines/MostVirtualMachines.java)|
 |sliding window|[Max weight Sum(follow up)](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
