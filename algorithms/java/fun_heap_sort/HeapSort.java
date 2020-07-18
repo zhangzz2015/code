@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class HeapSort {
     public void heapSort(int[] array) {
         // sanity check
@@ -46,14 +48,10 @@ public class HeapSort {
         int[] input1 = {4, 2, 3, 1};
         HeapSort heapSort = new HeapSort();
         heapSort.heapSort(input1);
-        for (int ele : input1) {
-            System.out.println(ele);
-        }
+        System.out.println(Arrays.toString(input1));
         System.out.println("***********");
         int[] input2 = {4, 2, 3, 1, -1, 10, 20};
         heapSort.heapSort(input2);
-        for (int ele : input2) {
-            System.out.println(ele);
-        }
+        System.out.println(Arrays.toString(input2));
     }
 }
