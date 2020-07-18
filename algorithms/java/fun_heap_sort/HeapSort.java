@@ -12,7 +12,7 @@ public class HeapSort {
 
     private void heapify(int[] array) {
         int len = array.length;
-        for (int i = len / 2 - 1; i >= 0; i--) {
+        for (int i = len / 2 - 1; i >= 0; i--) { // because -1 / 2 = 0, we need to use len / 2 - 1 
             percolateDown(array, i, len);
         }
     }
