@@ -1,3 +1,5 @@
+import java.util.Map;
+
 public class NumberOfTwoSum {
     
     // there are duplicates elements but we don't count duplicate pairs.
@@ -50,6 +52,19 @@ public class NumberOfTwoSum {
                 right--;
             } else if (sum < target) left++;
             else right--;
+        }
+        return count;
+    }
+
+    // the array is not sorted
+    public int numberOfTwoSum3(int[] array, int target) {
+        int count = 0;
+        Map<Integer, Integer> occurence = new HashMap<>();
+        for (int j = 0; j < array.length; j++) {
+            // how many elements have the value of target - array[j]
+            count += occurence.getOrDefault(target - array[j], 0);
+            // put array[j] into the map
+            occurence.put(array[j], occurence.getOrDefault(array[j], 0) + 1);
         }
         return count;
     }
