@@ -1,61 +1,41 @@
 class SortTransformed {
     public int[] sortTransformedArray(int[] nums, int a, int b, int c) {
-        int[] res = new int[nums.length];
-        if (a == 0) {
-            for (int i = 0; i < nums.length; ++i) {
-                if (b > 0) {
-                    res[i] = get(nums[i], a, b, c);
-                } else {
-                    res[nums.length - 1 - i] = get(nums[i], a, b, c);
-                }
-            }
-            return res;
+        if (nums == null || nums.length == 0) {
+            return new int[0];
         }
-        double mid = -b * 1.0 / a / 2;
-        int left = largestSmallerEqual(nums, mid);
-        int right = left + 1;
-        if (a > 0) {
-            for (int i = 0; i < nums.length; ++i) {
-                if (right >= nums.length || left >= 0 && Math.abs(mid - nums[left]) < Math.abs(mid - nums[right])) {
-                    res[i] = get(nums[left], a, b, c);
-                    --left;
+        return sort(nums, a, b, c);
+    }
+    
+    private int[] sort(int[] nums, int a, int b, int c) {
+        int[] res = new int[nums.length];
+        int left = 0;
+        int right = nums.length - 1;
+        int i = a >= 0 ? nums.length - 1 : 0;
+        while (left <= right) {
+            int leftRes = calculate(nums[left], a, b, c);
+            int rightRes = calculate(nums[right], a, b, c);
+            if (a >= 0) {
+                if (leftRes >= rightRes) {
+                    res[i--] = leftRes;
+                    left++;
                 } else {
-                    res[i] = get(nums[right], a, b, c);
-                    ++right;
+                    res[i--] = rightRes;
+                    right--;
                 }
-            }
-        } else {
-            for (int i = nums.length - 1; i >= 0; --i) {
-                if (right >= nums.length || left >= 0 && Math.abs(mid - nums[left]) < Math.abs(mid - nums[right])) {
-                   res[i] = get(nums[left], a, b, c);
-                   --left;
+            } else {
+                if (leftRes >= rightRes) {
+                    res[i++] = rightRes;
+                    right--;
                 } else {
-                    res[i] = get(nums[right], a, b, c);
-                    ++right;
+                    res[i++] = leftRes;
+                    left++;
                 }
             }
         }
         return res;
     }
-
-    private int get(int x, int a, int b, int c) {
-        return a * x * x + b * x + c;
-    }
-
-    private int largestSmallerEqual(int[] nums, double target) {
-        int left = 0;
-        int right = nums.length - 1;
-        while (left + 1 < right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] <= target) {
-                left = mid;
-            } else {
-                right = mid - 1;
-            }
-        }
-        if (nums[right] <= target) return right;
-        if (nums[left] <= target) return left;
-        // cannot find
-        return -1;
+    
+    private int calculate(int num, int a, int b, int c) {
+        return a * num * num + b * num + c;
     }
 }
