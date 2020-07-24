@@ -21,7 +21,8 @@ Code
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/154_find_minimum_in_rotated_sorted_array_2/FindMin.java)|[hard](./algorithms/java/154_find_minimum_in_rotated_sorted_array_2/README.md)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./algorithms/java/162_find_peak_element/FindPeak.java)|[medium](./algorithms/java/162_find_peak_element/README.md)|
 |167|[Two Sum II](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./algorithms/java/167_two_sum_2/TwoSum2.java)|[easy](./algorithms/java/167_two_sum_2/README.md)|
-|274|[H Index](https://leetcode-cn.com/problems/h-index/)|[Java](./algorithms/java/274_h_index/HIndex.java)|[medium](./algorithms/java/274_h_index/README.md)|
+|274|[H Index](https://leetcode.com/problems/h-index/)|[Java](./algorithms/java/274_h_index/HIndex.java)|[medium](./algorithms/java/274_h_index/README.md)|
+|275|[H Index II](https://leetcode.com/problems/h-index-ii/)|[Java](./algorithms/java/275_h_index_2/HIndex.java)|[medium](./algorithms/java/275_h_index_2/README.md)|
 |300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/java/300_longest_increasing_subsequence/LengthOfLIS.java)|[medium](./algorithms/java/300_longest_increasing_subsequence/README.md)|
 |360|[Sort Transformed Array](https://leetcode-cn.com/problems/sort-transformed-array/)|[Java](./algorithms/java/360_sort_transformed_array/SortTransformed.java)|[medium](./algorithms/java/360_sort_transformed_array/README.md)|
 |438|[Find All Anagrams in a String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)|[Java](./algorithms/java/438_find_all_anagrams_in_a_string/FindAllAnagrams.java)|[medium](./algorithms/java/438_find_all_anagrams_in_a_string/README.md)|
@@ -30,7 +31,7 @@ Code
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/)|[Java](./algorithms/java/668_kth_smallest_number_in_multiplication_table/FindKthNumber.java)|[hard](./algorithms/java/668_kth_smallest_number_in_multiplication_table/README.md)|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Java](./algorithms/java/744_find_smallest_letter_greater_than_target/NextGreatestLetter.java)|[easy](./algorithms/java/744_find_smallest_letter_greater_than_target/README.md)|
 |1060|[Missing Element in Sorted Array](https://leetcode-cn.com/problems/missing-element-in-sorted-array/)|[Java](./algorithms/java/1060_missing_element_in_sorted_array/MissingElement.java)|[medium](./algorithms/java/1060_missing_element_in_sorted_array/README.md)|
-|1095|[Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)|[Java](./algorithms/java/1095_find_in_mountain_array/MountainArray.java)|[hard](./algorithms/java/1095_find_in_mountain_array/README.md)|
+|1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|[Java](./algorithms/java/1095_find_in_mountain_array/MountainArray.java)|[hard](./algorithms/java/1095_find_in_mountain_array/README.md)|
 |1228|[Missing Number in Arithmetic Progression](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression/)|[Java](./algorithms/java/1228_missing_number_in_arithmetic_progression/MissingNumber.java)|[easy](./algorithms/java/1228_missing_number_in_arithmetic_progression/README.md)|
 
 ### fun problems
