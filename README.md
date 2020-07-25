@@ -13,7 +13,7 @@ Code
 |37|[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver/)|[Java](./algorithms/java/37_soduku_solver/SudokuSolver.java)|[hard](./algorithms/java/37_soduku_solver/README.md)|
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|[Java](./algorithms/java/53_maximum_subarray/MaxSubarray.java)|[easy](./algorithms/java/53_maximum_subarray/README.md)|
 |69|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)|[Java](./algorithms/java/69_sqrtx/Sqrt.java)|[easy](./algorithms/java/69_sqrtx/README.md)|
-|74|[Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/)|[Java](./algorithms/java/74_search_a_2d_matrix/SearchMatrix.java)|[medium](./algorithms/java/74_search_a_2d_matrix/README.md)|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/java/74_search_a_2d_matrix/SearchMatrix.java)|[medium](./algorithms/java/74_search_a_2d_matrix/README.md)|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/81_search_in_rotated_sorted_array_2/RotatedSearch.java)|[medium](./algorithms/java/81_search_in_rotated_sorted_array_2/README.md)|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)|[Java](./algorithms/java/116_populating_next_right_pointers/PopulateNext.java)|[meduim](./algorithms/java/116_populating_next_right_pointers/README.md)|
 |117|[Populating Next Right Pointers in Each Node 2](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)|[Java](./algorithms/java/117_populating_next_right_pointers_2/PopulatingNext.java)|[medium](./algorithms/java/117_populating_next_right_pointers_2/README.md)|
@@ -21,6 +21,7 @@ Code
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/154_find_minimum_in_rotated_sorted_array_2/FindMin.java)|[hard](./algorithms/java/154_find_minimum_in_rotated_sorted_array_2/README.md)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./algorithms/java/162_find_peak_element/FindPeak.java)|[medium](./algorithms/java/162_find_peak_element/README.md)|
 |167|[Two Sum II](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./algorithms/java/167_two_sum_2/TwoSum2.java)|[easy](./algorithms/java/167_two_sum_2/README.md)|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Java](./algorithms/java/240_search_a_2d_matrix_2/SearchMatrix.java)|[medium](./algorithms/java/240_search_a_2d_matrix_2/README.md)|
 |274|[H Index](https://leetcode.com/problems/h-index/)|[Java](./algorithms/java/274_h_index/HIndex.java)|[medium](./algorithms/java/274_h_index/README.md)|
 |275|[H Index II](https://leetcode.com/problems/h-index-ii/)|[Java](./algorithms/java/275_h_index_2/HIndex.java)|[medium](./algorithms/java/275_h_index_2/README.md)|
 |300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/java/300_longest_increasing_subsequence/LengthOfLIS.java)|[medium](./algorithms/java/300_longest_increasing_subsequence/README.md)|
