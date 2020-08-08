@@ -48,6 +48,7 @@ Code
 |sorting|[Selection Sort](./algorithms/java/fun_selection_sort/README.md)|[Java](./algorithms/java/fun_selection_sort/SelectionSort.java)|
 |sorting|[Heap Sort](./algorithms/java/fun_heap_sort/README.md)|[Java](./algorithms/java/fun_heap_sort/HeapSort.java)|
 |two pointers|[Number of Pairs of Two Sum](./algorithms/java/fun_number_of_two_sum_with_duplicate/README.md)|[Java](./algorithms/java/fun_number_of_two_sum_with_duplicate/NumberOfTwoSum.java)|
+|prefix sum|[Subarray Sum Closest to Target](./algorithms/java/fun_subarray_sum_closest_to_target/README.md)|[Java](./algorithms/java/fun_subarray_sum_closest_to_target/ClosestSubarraySum.java)|
 |sliding window|[Most Online Virtual Machines](./algorithms/java/fun_most_online_virtual_machines/README.md)|[Java](./algorithms/java/fun_most_online_virtual_machines/MostVirtualMachines.java)|
 |sliding window|[Max weight Sum(follow up)](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
 |sliding window|[Product of K Sliding Window](./algorithms/java/fun_product_of_each_size_k_subarray/README.md)|[Java](./algorithms/java/fun_product_of_each_size_k_subarray/ProductKSlidingWindow.java)|
