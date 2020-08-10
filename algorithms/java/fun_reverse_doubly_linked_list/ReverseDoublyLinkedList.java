@@ -5,7 +5,8 @@ public class ReverseDoublyLinkedList {
         ListNode next;
     }
     
-    public ListNode reverseDoublyLinkedList(ListNode head) {
+    // using previious node
+    public ListNode reverseDoublyLinkedList1(ListNode head) {
         ListNode cur = head;
         ListNode prev = null;
         while (cur != null) {
@@ -19,7 +20,7 @@ public class ReverseDoublyLinkedList {
     }
 
     // if we do not use prev node
-    public ListNode reverseDoublyLinkedList1(ListNode head) {
+    public ListNode reverseDoublyLinkedList2(ListNode head) {
         ListNode cur = head;
         while (cur != null) {
             ListNode next = cur.next;
