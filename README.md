@@ -47,6 +47,7 @@ Code
 |binary search|[Larger in 2D Matrix](./algorithms/java/fun_larger_in_2d_matrix/README.md)|[Java](./algorithms/java/fun_larger_in_2d_matrix/Larger.java )|
 |sorting|[Selection Sort](./algorithms/java/fun_selection_sort/README.md)|[Java](./algorithms/java/fun_selection_sort/SelectionSort.java)|
 |sorting|[Heap Sort](./algorithms/java/fun_heap_sort/README.md)|[Java](./algorithms/java/fun_heap_sort/HeapSort.java)|
+|linked list|[Reverse a Doubly Linked List](./algorithms/java/fun_reverse_doubly_linked_list/README.md)|[Java](./algorithms/java/fun_reverse_doubly_linked_list/ReverseDoublyLinkedList.java)|
 |two pointers|[Number of Pairs of Two Sum](./algorithms/java/fun_number_of_two_sum_with_duplicate/README.md)|[Java](./algorithms/java/fun_number_of_two_sum_with_duplicate/NumberOfTwoSum.java)|
 |prefix sum|[Subarray Sum Closest to Target](./algorithms/java/fun_subarray_sum_closest_to_target/README.md)|[Java](./algorithms/java/fun_subarray_sum_closest_to_target/ClosestSubarraySum.java)|
 |sliding window|[Most Online Virtual Machines](./algorithms/java/fun_most_online_virtual_machines/README.md)|[Java](./algorithms/java/fun_most_online_virtual_machines/MostVirtualMachines.java)|
