@@ -53,6 +53,7 @@ Code
 |sliding window|[Most Online Virtual Machines](./algorithms/java/fun_most_online_virtual_machines/README.md)|[Java](./algorithms/java/fun_most_online_virtual_machines/MostVirtualMachines.java)|
 |sliding window|[Max weight Sum(follow up)](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
 |sliding window|[Product of K Sliding Window](./algorithms/java/fun_product_of_each_size_k_subarray/README.md)|[Java](./algorithms/java/fun_product_of_each_size_k_subarray/ProductKSlidingWindow.java)|
+|sliding window|[Number of Pairs Smaller or Equal to Target](./algorithms/java/fun_number_of_pairs_smaller_or_equal_than_targets/README.md)|[Java](./algorithms/java/fun_number_of_pairs_smaller_or_equal_than_targets/NumberOfPairSmallerOrEqualToTarget.java)|
 |tree|[Equivalent Trees](./algorithms/java/fun_equivalent_trees/README.md)|[Java](./algorithms/java/fun_equivalent_trees/EquivalentTrees.java)|
 |tree|[Populate Next Pointer](./algorithms/java/fun_populate_next_pointers/README.md)|[Java](./algorithms/java/fun_populate_next_pointers/PopulateNextPointers.java)|
 |tree|[Outside to Inside](./algorithms/java/fun_outside_to_inside/README.md)|[Java](./algorithms/java/fun_outside_to_inside/OutsideToInside.java)|
