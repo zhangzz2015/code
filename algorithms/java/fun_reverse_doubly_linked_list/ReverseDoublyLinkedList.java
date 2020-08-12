@@ -5,7 +5,7 @@ public class ReverseDoublyLinkedList {
         ListNode next;
     }
     
-    // using previious node
+    // using previous node
     public ListNode reverseDoublyLinkedList1(ListNode head) {
         ListNode cur = head;
         ListNode prev = null;
