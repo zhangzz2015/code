@@ -9,6 +9,13 @@ There are three ways to traversal in a binary tree.<br>
 3. parent pointer<br>
     - **pros:** not need to worry about stack space
     - **cons:** need another pointer, more condition to consider
+    - traverse the current node, what is the next:
+        - we don't need to look at the leftsubtree at all!!
+        - only need to look at the **right subtree**<br>
+            current.right != null:
+                firstNode(current.right)<br>
+            current.right == null:
+                through the parent pointer, go up find the first node, that the leftsubtree is finished
 
 Both 1 and 2 need<br>
 Time: O(n) - n is the number of nodes<br>
