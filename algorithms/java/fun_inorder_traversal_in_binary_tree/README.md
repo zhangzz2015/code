@@ -9,4 +9,10 @@ There are three ways to traversal in a binary tree.<br>
 3. parent pointer<br>
     - **pros:** not need to worry about stack space
     - **cons:** need another pointer, more condition to consider
-    
+
+Both 1 and 2 need<br>
+Time: O(n) - n is the number of nodes<br>
+Space: O(height) - height of the binary tree<br>
+For 3<br>
+Time: O(n) - n is the number of nodes<br>
+Space: O(1)
