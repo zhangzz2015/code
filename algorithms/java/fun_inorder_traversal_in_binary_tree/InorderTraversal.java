@@ -54,6 +54,7 @@ public class InorderTraversal {
         return res;
     }
     private TreeNode firstNode(TreeNode cur) {
+        if (cur == null) return null;
         while (cur.left != null) {
             cur = cur.left;
         }
