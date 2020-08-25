@@ -1,10 +1,6 @@
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-import javax.swing.tree.TreeNode;
-
-import com.sun.tools.javac.util.List;
-
 public class InorderTraversal {
     
     // 1. recursive way
