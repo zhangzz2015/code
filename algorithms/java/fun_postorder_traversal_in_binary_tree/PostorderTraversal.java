@@ -1,7 +1,5 @@
 import java.util.Deque;
 
-import javax.swing.tree.TreeNode;
-
 public class PostorderTraversal {
 
     // 1. recursive
