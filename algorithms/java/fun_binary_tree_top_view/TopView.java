@@ -1,4 +1,5 @@
 import java.util.Deque;
+import java.util.Map;
 import java.util.Queue;
 
 public class TopView {
@@ -73,5 +74,35 @@ public class TopView {
             }
         }
         return new ArrayList<>(top);
+    }
+
+    // bottom view
+    public List<Integer> bottomView(TreeNode root) {
+        if (root == null) return new ArrayList<>();
+        Map<Integer, Integer> map = new HashMap<>();
+        int small = 0;
+        int large = 0;
+        Queue<NodeWithColumn> queue = new ArrayDeque<>();
+        queue.offer(new NodeWithColumn(root, 0));
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            for (int i = 0; i < size; i++) {
+                NodeWithColumn cur = queue.poll();
+                if (cur.column < small) small = cur.column;
+                else if (cur.column > large) large = cur.column;
+                map.put(cur.column, cur.node.val);
+                if (cur.node.left != null) {
+                    queue.offer(new NodeWithColumn(cur.node.left, cur.column - 1));
+                }
+                if (cur.node.right != null) {
+                    queue.offer(new NodeWithColumn(cur.node.right, cur.column + 1));
+                }
+            }
+        }
+        List<Integer> res = new ArrayList<>();
+        for (int i = small; i <= large; i++) {
+            res.add(map.get(i));
+        }
+        return res;
     }
 }
