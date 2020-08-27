@@ -38,7 +38,7 @@ Code
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|[Java](./algorithms/java/1095_find_in_mountain_array/MountainArray.java)|[hard](./algorithms/java/1095_find_in_mountain_array/README.md)|
 |1228|[Missing Number in Arithmetic Progression](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression/)|[Java](./algorithms/java/1228_missing_number_in_arithmetic_progression/MissingNumber.java)|[easy](./algorithms/java/1228_missing_number_in_arithmetic_progression/README.md)|
 
-### fun problems
+### Fun Problems
 
 | topic | Title | Solution |
 |-------| ----- | -------- |
@@ -59,6 +59,7 @@ Code
 |tree|[Preorder Traversal in Binary Tree](./algorithms/java/fun_preorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_preorder_traversal_in_binary_tree/PreorderTraversal.java)|
 |tree|[Postorder Traversal in Binary Tree](./algorithms/java/fun_postorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_postorder_traversal_in_binary_tree/PostorderTraversal.java)|
 |tree|[Kth Largest Element in BST](./algorithms/java/fun_kth_largest_node_in_bst/README.md)|[Java](./algorithms/java/fun_kth_largest_node_in_bst/KthLargestInBST.java)|
+|tree|[Binary Tree Top View or Bottom View](./algorithms/java/fun_binary_tree_top_view_or_bottom_view/README.md)|[Java](./algorithms/java/fun_binary_tree_top_view_or_bottom_view/TopBottomView.java)|
 |tree|[Equivalent Trees](./algorithms/java/fun_equivalent_trees/README.md)|[Java](./algorithms/java/fun_equivalent_trees/EquivalentTrees.java)|
 |tree|[Populate Next Pointer](./algorithms/java/fun_populate_next_pointers/README.md)|[Java](./algorithms/java/fun_populate_next_pointers/PopulateNextPointers.java)|
 |tree|[Outside to Inside](./algorithms/java/fun_outside_to_inside/README.md)|[Java](./algorithms/java/fun_outside_to_inside/OutsideToInside.java)|
