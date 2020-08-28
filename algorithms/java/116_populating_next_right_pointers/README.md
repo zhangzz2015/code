@@ -10,6 +10,6 @@ time: O(n)<br>
 space: O(1)
 ## DFS
 We can also use DFS to traverse the graph and record the tail nodes for each level.<br>
-If we use a map to record the tail nodes for each level, it does not matter of pre/in/post order.<br>
+If we use a map to record the tail nodes for each level, it does not matter of pre/in/post order. But if we are using preorder then the nodes are from smaller level to larger level. Then we can use a list to store all the tails of each level.<br>
 time: O(n)<br>
 space: O(height)
