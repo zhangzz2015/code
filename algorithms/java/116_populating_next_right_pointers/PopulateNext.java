@@ -63,7 +63,7 @@ public class PopulateNext {
         List<Node> tails = new ArrayList<>();
         dfs(tails, root, 0);
     }
-    private void dfs(List<Node> tials, Node root, int level) {
+    private void dfs(List<Node> tails, Node root, int level) {
         if (root == null) return;
         if (tails.size() == level) {
             tails.add(root);
