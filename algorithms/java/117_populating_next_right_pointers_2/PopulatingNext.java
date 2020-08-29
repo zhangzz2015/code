@@ -8,38 +8,32 @@ public class PopulatingNext {
 
     public Node connect(Node root) {
         if (root == null) return root;
-        Node nextLevelHead = null;
-        Node curNode = root;
-        Node prevNode = null;
-        while (curNode != null) {
-            if (curNode.left != null) {
-                if (prevNode == null) {
-                    prevNode = curNode.left;
-                } else {
-                    prevNode.next = curNode.left;
-                    prevNode = prevNode.next;
+        Node head = root;
+        while (head != null) {
+            Node prev = null;
+            Node nextHead = null;
+            while (head != null) {
+                if (head.left != null) {
+                    if (prev != null) {
+                        prev.next = head.left;
+                    }
+                    prev = head.left;
+                    if (nextHead == null) {
+                        nextHead = head.left;
+                    }
                 }
-                if (nextLevelHead == null) {
-                    nextLevelHead = curNode.left;
+                if (head.right != null) {
+                    if (prev != null) {
+                        prev.next = head.right;
+                    }
+                    prev = head.right;
+                    if (nextHead == null) {
+                        nextHead = head.right;
+                    }
                 }
+                head = head.next;
             }
-            if (curNode.right != null) {
-                if (prevNode == null) {
-                    prevNode = curNode.right;
-                } else {
-                    prevNode.next = curNode.right;
-                    prevNode = prevNode.next;
-                }
-                if (nextLevelHead == null) {
-                    nextLevelHead = curNode.right;
-                }
-            }
-            curNode = curNode.next;
-            if (curNode == null) {
-                curNode = nextLevelHead;
-                nextLevelHead = null;
-                prevNode = null;
-            }
+            head = nextHead;
         }
         return root;
     }
