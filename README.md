@@ -67,6 +67,7 @@ Code
 |tree|[Populate Next Pointer](./algorithms/java/fun_populate_next_pointers/README.md)|[Java](./algorithms/java/fun_populate_next_pointers/PopulateNextPointers.java)|
 |tree|[Sum of All Leaf Nodes in n-ary tree with O(1) space](./algorithms/java/fun_sum_of_all_leaf_nodes_for_n-ary_tree/README.md)|[Java](./algorithms/java/fun_sum_of_all_leaf_nodes_for_n-ary_tree/SumofAllLeaf.java )|
 |tree|[Visible Nodes in Tree](./algorithms/java/fun_visible_nodes_in_tree/README.md)|[Java](./algorithms/java/fun_visible_nodes_in_tree/VisibleNodes.java)|
+|tree|[Sum Leaf to Root Numbers](./algorithms/java/fun_sum_leaf_to_root_numbers/README.md)|[Java](./algorithms/java/fun_sum_leaf_to_root_numbers/LeafToRoot.java)|
 |tree|[Equivalent Trees](./algorithms/java/fun_equivalent_trees/README.md)|[Java](./algorithms/java/fun_equivalent_trees/EquivalentTrees.java)|
 |tree|[Outside to Inside](./algorithms/java/fun_outside_to_inside/README.md)|[Java](./algorithms/java/fun_outside_to_inside/OutsideToInside.java)|
 |hybrid data structure|[Most Recent k URLs](./algorithms/java/fun_most_recent_k_urls/README.md)|[Java](./algorithms/java/fun_most_recent_k_urls/MostRecentKUrls.java)|
