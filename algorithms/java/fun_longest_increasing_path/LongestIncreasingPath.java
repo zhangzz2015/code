@@ -1,7 +1,7 @@
 public class LongestIncreasingPath {
     
     // 1. backtracking
-    private int max = Integer.MIN_VALUE;
+    private int max = 1;
     public int longestIncreasingPath(TreeNode root) {
         longest(root, Integer.MAX_VALUE, 0);
         return max;
