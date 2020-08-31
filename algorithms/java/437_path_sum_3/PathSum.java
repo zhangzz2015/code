@@ -6,6 +6,7 @@ public class PathSum {
     }
     
     private int countPathSum(TreeNode root, int target, Map<Integer, Integer> map, int curSum) {
+        // base case
         if (root == null) return 0;
         curSum += root.val;
         int count = map.getOrDefault(curSum - target, 0);
