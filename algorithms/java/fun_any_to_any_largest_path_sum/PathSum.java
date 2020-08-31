@@ -1,5 +1,4 @@
-public class PathSum {
-    
+public class PathSum {    
     int globalMax = Integer.MIN_VALUE;
     public int largest(TreeNode root) {
         // base case
