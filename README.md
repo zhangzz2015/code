@@ -77,6 +77,7 @@ Code
 |tree path|[Any to Any Largest Path Sum](./algorithms/java/fun_any_to_any_largest_path_sum/README.md)|[Java](./algorithms/java/fun_any_to_any_largest_path_sum/PathSum.java)|
 |tree path|[Path Sum to Target](./algorithms/java/fun_path_sum_to_target/README.md)|[Java](./algorithms/java/fun_path_sum_to_target/PathSumToTarget.java)|
 |tree path|[Path Product to Target](./algorithms/java/fun_path_product_to_target/README.md)|[Java](./algorithms/java/fun_path_product_to_target/ProctToTarget.java)|
+|tree path|[Longest Increasing Path](./algorithms/java/fun_longest_increasing_path/README.md)|[Java](./algorithms/java/fun_longest_increasing_path/LongestIncreasingPath.java)|
 |hybrid data structure|[Most Recent k URLs](./algorithms/java/fun_most_recent_k_urls/README.md)|[Java](./algorithms/java/fun_most_recent_k_urls/MostRecentKUrls.java)|
 |graph|[Top K M levels of Similar Songs](./algorithms/java/fun_top_k_m_levels_of_similar_songs/README.md)|[Java](./algorithms/java/fun_top_k_m_levels_of_similar_songs/TopKSimilarSongsWithAtMostMLevelDiff.java)|
 |topolocigal sort|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
