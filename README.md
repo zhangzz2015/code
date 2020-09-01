@@ -74,6 +74,7 @@ Code
 |tree|[Sum Leaf to Root Numbers](./algorithms/java/fun_sum_leaf_to_root_numbers/README.md)|[Java](./algorithms/java/fun_sum_leaf_to_root_numbers/LeafToRoot.java)|
 |tree|[Equivalent Trees](./algorithms/java/fun_equivalent_trees/README.md)|[Java](./algorithms/java/fun_equivalent_trees/EquivalentTrees.java)|
 |tree|[Outside to Inside](./algorithms/java/fun_outside_to_inside/README.md)|[Java](./algorithms/java/fun_outside_to_inside/OutsideToInside.java)|
+|tree|[Remove All Zero Subtree](./algorithms/java/fun_remove_all_zero_subtree/README.md)|[Java](./algorithms/java/fun_remove_all_zero_subtree/RemoveZero.java)|
 |tree path|[Up Down Any to Any Largest Path Sum](./algorithms/java/fun_up_down_any_to_any_largest_path_sum/README.md)|[Java](./algorithms/java/fun_up_down_any_to_any_largest_path_sum/PathSum.java)|
 |tree path|[Any to Any Largest Path Sum](./algorithms/java/fun_any_to_any_largest_path_sum/README.md)|[Java](./algorithms/java/fun_any_to_any_largest_path_sum/PathSum.java)|
 |tree path|[Path Sum to Target](./algorithms/java/fun_path_sum_to_target/README.md)|[Java](./algorithms/java/fun_path_sum_to_target/PathSumToTarget.java)|
