@@ -17,6 +17,20 @@ public class AndOperationOnQuadtree {
         }
     }
     class NonLeafNode implements QuadTreeNode {
+        @Override
+        public boolean isLeaf() {return false;}
+        @Override
+        public boolean color() {
+            return new UnsupportedOperationException("This is a nonleaf node.");
+        }
+        @Override
+        public List<QuadTreeNode> getChildren() {
+            List<QuadTreeNode> children = new ArrayList<>();
+            children.add(c1);
+            children.add(c2);
+            children.add(c3);
+            children.add(c4);
+        }
         LeafNode c1;
         LeafNode c2;
         LeafNode c3;
