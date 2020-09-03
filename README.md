@@ -34,6 +34,7 @@ Code
 |275|[H Index II](https://leetcode.com/problems/h-index-ii/)|[Java](./algorithms/java/275_h_index_2/HIndex.java)|[medium](./algorithms/java/275_h_index_2/README.md)|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/java/300_longest_increasing_subsequence/LengthOfLIS.java)|[medium](./algorithms/java/300_longest_increasing_subsequence/README.md)|
 |314|[Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)|[Java](./algorithms/java/314_binary_tree_vertical_order_traversal/VerticalOrder.java)|[medium](./algorithms/java/314_binary_tree_vertical_order_traversal/README.md)|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](./algorithms/java/315_count_of_smaller_numbers_after_self/CountSmallerAfter.java)|[hard](./algorithms/java/315_count_of_smaller_numbers_after_self/README.md)|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./algorithms/java/322_coin_change/CoinChange.java)|[medium](./algorithms/java/322_coin_change/README.md)|
 |360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|[Java](./algorithms/java/360_sort_transformed_array/SortTransformed.java)|[medium](./algorithms/java/360_sort_transformed_array/README.md)|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./algorithms/java/437_path_sum_3/PathSum.java)|[medium](./algorithms/java/437_path_sum_3/README.md)|
