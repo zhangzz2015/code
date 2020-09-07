@@ -1,4 +1,4 @@
-public class CollectLeaves.java {
+public class CollectLeaves {
 	public List<List<Integer>> collect(TreeNode root) {
 		List<List<Integer>> res = new ArrayList<>();
 		helper(root, res);
