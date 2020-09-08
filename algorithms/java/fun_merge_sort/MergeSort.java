@@ -1,5 +1,6 @@
 public class MergeSort {
-
+    
+    // naive method
     public int[] mergeSort(int[] array) {
         if (array == null || array.length <= 1) {
             return array;
@@ -43,7 +44,7 @@ public class MergeSort {
         return res;
     }
 
-    // space optimize
+    // space optimize to at least O(n)
     public int[] mergeSort1(int[] array) {
         if (array == null) return array;
         // allocate helper array to help merge step
@@ -52,7 +53,6 @@ public class MergeSort {
         mergeSort1(array, helper, 0, array.length - 1);
         return array;
     }
-
     private void mergeSort1(int[] array, int[] helper, int left, int right) {
         if (left >= right) {
             return;
@@ -62,7 +62,6 @@ public class MergeSort {
         mergeSort1(array, helper, mid + 1, right);
         merge1(array, helper, left, mid, right);
     }
-
     private void merge1(int[] array, int[] helper, int left, int mid, int right) {
         // copy the content to helper array and use helper to merge
         for (int i = left; i <= right; i++) {
