@@ -64,6 +64,7 @@ Code
 |sorting|[Heap Sort](./algorithms/java/fun_heap_sort/README.md)|[Java](./algorithms/java/fun_heap_sort/HeapSort.java)|
 |sorting|[Merge Sort](./algorithms/java/fun_merge_sort/REAEDME.md)|[Java](./algorithms/java/fun_merge_sort/MergeSort.java)|
 |sorting|[Quick Sort](./algorithms/java/fun_quick_sort/README.md)|[Java](./algorithms/java/fun_quick_sort/QuickSort.java)|
+|sorting|[Quick Select](./algorithms/java/fun_quick_select/README.md)|[Java](./algorithms/java/fun_quick_select/QuickSelect.java)|
 |linked list|[Reverse a Doubly Linked List](./algorithms/java/fun_reverse_doubly_linked_list/README.md)|[Java](./algorithms/java/fun_reverse_doubly_linked_list/ReverseDoublyLinkedList.java)|
 |two pointers|[Number of Pairs of Two Sum](./algorithms/java/fun_number_of_two_sum_with_duplicate/README.md)|[Java](./algorithms/java/fun_number_of_two_sum_with_duplicate/NumberOfTwoSum.java)|
 |prefix sum|[Subarray Sum Closest to Target](./algorithms/java/fun_subarray_sum_closest_to_target/README.md)|[Java](./algorithms/java/fun_subarray_sum_closest_to_target/ClosestSubarraySum.java)|
