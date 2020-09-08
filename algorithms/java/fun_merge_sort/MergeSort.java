@@ -44,7 +44,7 @@ public class MergeSort {
         return res;
     }
 
-    // space optimize
+    // space optimize to at least O(n)
     public int[] mergeSort1(int[] array) {
         if (array == null) return array;
         // allocate helper array to help merge step
