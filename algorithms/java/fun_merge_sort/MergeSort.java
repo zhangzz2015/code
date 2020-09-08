@@ -1,5 +1,6 @@
 public class MergeSort {
-
+    
+    // naive method
     public int[] mergeSort(int[] array) {
         if (array == null || array.length <= 1) {
             return array;
