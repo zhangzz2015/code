@@ -92,6 +92,7 @@ Code
 |tree|[Retain Nodes in Range for BST](./algorithms/java/fun_retain_nodes_in_range_for_bst/README.md)|[Java](./algorithms/java/fun_retain_nodes_in_range_for_bst/RetainNodesInRange.java)|
 |tree|[Collect Leaf and Remove](./algorithms/java/fun_collect_leaf_and_remove/README.md)|[Java](./algorithms/java/fun_collect_leaf_and_remove/CollectLeaves.java )|
 |tree|[Determine Perfect Tree](./algorithms/java/fun_determine_perfect_tree/README.md)|[Java](./algorithms/java/fun_determine_perfect_tree/PerfectTree.java)|
+|tree|[Lowest Common Ancestor May Not Exist](./algorithms/java/fun_lowest_common_ancestor_may_not_exist/README.md)|[Java](./algorithms/java/fun_lowest_common_ancestor_may_not_exist/LCA.java)|
 |tree path|[Up Down Any to Any Largest Path Sum](./algorithms/java/fun_up_down_any_to_any_largest_path_sum/README.md)|[Java](./algorithms/java/fun_up_down_any_to_any_largest_path_sum/PathSum.java)|
 |tree path|[Any to Any Largest Path Sum](./algorithms/java/fun_any_to_any_largest_path_sum/README.md)|[Java](./algorithms/java/fun_any_to_any_largest_path_sum/PathSum.java)|
 |tree path|[Path Sum to Target](./algorithms/java/fun_path_sum_to_target/README.md)|[Java](./algorithms/java/fun_path_sum_to_target/PathSumToTarget.java)|
