@@ -89,6 +89,7 @@ Code
 |tree|[Equivalent Trees](./algorithms/java/fun_equivalent_trees/README.md)|[Java](./algorithms/java/fun_equivalent_trees/EquivalentTrees.java)|
 |tree|[Outside to Inside](./algorithms/java/fun_outside_to_inside/README.md)|[Java](./algorithms/java/fun_outside_to_inside/OutsideToInside.java)|
 |tree|[Remove All Zero Subtree](./algorithms/java/fun_remove_all_zero_subtree/README.md)|[Java](./algorithms/java/fun_remove_all_zero_subtree/RemoveZero.java)|
+|tree|[Remove All Nodes with Only One Child](./algorithms/java/fun_remove_all_the_nodes_with_only_one_child/README.md)|[Java](./algorithms/java/fun_remove_all_the_nodes_with_only_one_child/RemoveAllOneChildNodes.java)|
 |tree|[Or of Two Binary Trees](./algorithms/java/fun_or_of_two_binary_trees/README.md)|[Java](./algorithms/java/fun_or_of_two_binary_trees/OrTwoBinaryTrees.java)|
 |tree|[And Operation on Quadtree](./algorithms/java/fun_and_operation_on_quadtree/README.md)|[Java](./algorithms/java/fun_and_operation_on_quadtree/AndOperationOnQuadtree.java)|
 |tree|[Retain Nodes in Range for BST](./algorithms/java/fun_retain_nodes_in_range_for_bst/README.md)|[Java](./algorithms/java/fun_retain_nodes_in_range_for_bst/RetainNodesInRange.java)|
