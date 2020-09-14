@@ -65,6 +65,7 @@ Code
 |binary search|[Random Generator](./algorithms/java/fun_random_generator/README.md)|[Java](./algorithms/java/fun_random_generator/RandomGenerator.java)|
 |binary search|[Smaller Equal in 2D Matrix](./algorithms/java/fun_smaller_equal_in_2d_matrix/README.md)|[Java](./algorithms/java/fun_smaller_equal_in_2d_matrix/SmallerEqual.java)|
 |binary search|[Larger in 2D Matrix](./algorithms/java/fun_larger_in_2d_matrix/README.md)|[Java](./algorithms/java/fun_larger_in_2d_matrix/Larger.java )|
+|sampling|[Reservoir Sampling](./algorithms/java/fun_reservoir_sampling/README.md)|[Java](./algorithms/java/fun_reservoir_sampling/ReservoirSampling.java)|
 |sorting|[Selection Sort](./algorithms/java/fun_selection_sort/README.md)|[Java](./algorithms/java/fun_selection_sort/SelectionSort.java)|
 |sorting|[Heap Sort](./algorithms/java/fun_heap_sort/README.md)|[Java](./algorithms/java/fun_heap_sort/HeapSort.java)|
 |sorting|[Merge Sort](./algorithms/java/fun_merge_sort/REAEDME.md)|[Java](./algorithms/java/fun_merge_sort/MergeSort.java)|
