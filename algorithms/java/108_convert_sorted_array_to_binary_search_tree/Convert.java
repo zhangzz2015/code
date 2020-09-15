@@ -2,8 +2,8 @@ public class Convert {
     public TreeNode sortedArrayToBST(int[] nums) {
         return sortedArrayToBST(nums, 0, nums.length - 1);
     }
-    
-    private TreeNode sortedArrayToBST(int[] nums. int left, int right) {
+
+    private TreeNode sortedArrayToBST(int[] nums, int left, int right) {
         if (left > right) return null;
         int mid = left + (right - left) / 2;
         TreeNode root = new TreeNode(nums[mid]);
