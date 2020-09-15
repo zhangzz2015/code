@@ -22,4 +22,4 @@ For the base case of the recursion we have to know how to find them.<br>
                        m
 
 time: O(n)<br>
-space: O(height)
+space: O(logn)
