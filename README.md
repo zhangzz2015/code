@@ -82,6 +82,7 @@ Code
 |sliding window|[Max weight Sum(follow up)](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
 |sliding window|[Product of K Sliding Window](./algorithms/java/fun_product_of_each_size_k_subarray/README.md)|[Java](./algorithms/java/fun_product_of_each_size_k_subarray/ProductKSlidingWindow.java)|
 |sliding window|[Number of Pairs Smaller or Equal to Target](./algorithms/java/fun_number_of_pairs_smaller_or_equal_than_targets/README.md)|[Java](./algorithms/java/fun_number_of_pairs_smaller_or_equal_than_targets/NumberOfPairSmallerOrEqualToTarget.java)|
+|sliding window|[Number of Pairs Smaller or Equal in Two Arrays](./algorithms/java/fun_number_of_pairs_smaller_or_euqual_in_two_arrays/README.md)|[Java](./algorithms/java/fun_number_of_pairs_smaller_or_euqual_in_two_arrays/NumberOfPairs.java)|
 |string|[Reverse Sentence in Size K](./algorithms/java/fun_reverse_string_in_size_k/README.md)|[Java](./algorithms/java/fun_reverse_string_in_size_k/ReverseInK.java)|
 |tree|[Inorder Traversal in Binary Tree](./algorithms/java/fun_inorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_inorder_traversal_in_binary_tree/InorderTraversal.java)|
 |tree|[Preorder Traversal in Binary Tree](./algorithms/java/fun_preorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_preorder_traversal_in_binary_tree/PreorderTraversal.java)|
