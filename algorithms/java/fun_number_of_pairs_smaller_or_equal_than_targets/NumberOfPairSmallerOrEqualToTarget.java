@@ -1,5 +1,5 @@
 public class NumberOfPairSmallerOrEqualToTarget {
-    public int  numberOfPairSmallerOrEqualToTarget(int arr, int target) {
+    public int  numberOfPairSmallerOrEqualToTarget(int[] arr, int target) {
         if (arr == null) return 0;
         int left = 0;
         int right = arr.length - 1;
