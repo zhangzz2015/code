@@ -120,6 +120,7 @@ Code
 |tree path|[Longest Increasing Path](./algorithms/java/fun_longest_increasing_path/README.md)|[Java](./algorithms/java/fun_longest_increasing_path/LongestIncreasingPath.java)|
 |serialize tree|[Convert 3-ary Tree to Singly Link List](./algorithms/java/fun_convert_3ary_tree_to_singly_linked_list/README.md)|[Java](./algorithms/java/fun_convert_3ary_tree_to_singly_linked_list/Convert3aryTree.java)|
 |serialize tree|[Convert BST to Sorted Circular Doubly Linked List](./algorithms/java/fun_convert_bst_to_sorted_circular_doubly_linked_list/README.md)|[Java](./algorithms/java/fun_convert_bst_to_sorted_circular_doubly_linked_list/Convert.java)|
+|construct tree|[Given BST Preorder Return Postorder](./algorithms/java/fun_given_bst_preorder_return_postorder/README.md)|[Java](./algorithms/java/fun_given_bst_preorder_return_postorder/Postorder.java)|
 |hybrid data structure|[Most Recent k URLs](./algorithms/java/fun_most_recent_k_urls/README.md)|[Java](./algorithms/java/fun_most_recent_k_urls/MostRecentKUrls.java)|
 |hybrid data structure|[Design Add Remove Find Random APIs in O(1) time](./algorithms/java/fun_design_add_remove_find_random_in_o1/README.md)|[Java](./algorithms/java/fun_design_add_remove_find_random_in_o1/NewDataStructure.java)|
 |graph|[Top K M levels of Similar Songs](./algorithms/java/fun_top_k_m_levels_of_similar_songs/README.md)|[Java](./algorithms/java/fun_top_k_m_levels_of_similar_songs/TopKSimilarSongsWithAtMostMLevelDiff.java)|
