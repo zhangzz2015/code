@@ -39,4 +39,17 @@ class Construct {
         root.left = constructPost(postorder);
         return root;
     }
+
+    private int postIndex1 = 0;
+    public TreeNode constructPost1(String postorder) {
+        if (postorder[postIndex].equals(NN)) {
+            postIndex1++;
+            return null;
+        }
+        TreeNode left = constructPost1(postorder);
+        TreeNode right = constructPost2(postorder);
+        TreeNode root = postorder[postIndex1];
+        postIndex1++;
+        return root;
+    }
 }
