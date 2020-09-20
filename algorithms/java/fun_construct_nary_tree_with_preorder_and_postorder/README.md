@@ -15,6 +15,10 @@ We want to know whether every step of constructing is definite.
 ## recursion
 - find the root: root is the first node in the preorder
 - boundary of the subtree: for each root of the subtree, find the corresponding position in postorder, then we know the size of the subtree.
+
+store a reverted index in a map<br>
+time: O(n)<br>
+space: O(n)
 ## do both in recursion
 - preorder construct the tree
 - postorder traversal
