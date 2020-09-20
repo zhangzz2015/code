@@ -1,5 +1,5 @@
 class Construct {
-    // 2. both in recursion
+    // 2. do both in recursion
     int preIndex = 0;
     int postIndex = 0;
     public TreeNode construct(String[] pre, String[] post) {
