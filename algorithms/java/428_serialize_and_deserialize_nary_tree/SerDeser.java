@@ -1,5 +1,4 @@
 class SerDeser {
-    
     public String serialize(Node root) {
         if (root == null) {
             return "";
