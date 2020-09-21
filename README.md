@@ -130,6 +130,7 @@ Code
 |construct tree|[Construct Binary Search Tree With Level Order](./algorithms/java/fun_construct_binary_search_tree_with_level_order/README.md)|[Java](./algorithms/java/fun_construct_binary_search_tree_with_level_order/Construct.java)|
 |construct tree|[Construct Binary Tree with Special Signal](./algorithms/java/fun_construct_binary_tree_with_special_signal/README.md)|[Java](./algorithms/java/fun_construct_binary_tree_with_special_signal/Construct.java)|
 |construct tree|[Construct N-ary Tree with Preorder and Postorder](./algorithms/java/fun_construct_nary_tree_with_preorder_and_postorder/README.md)|[Java](./algorithms/java/fun_construct_nary_tree_with_preorder_and_postorder/Construct.java)|
+|construct tree|[Construct N-ary Tree with Parent Id Node](./algorithms/java/fun_construct_nary_tree_with_parent_id_node/README.md)|[Java](./algorithms/java/fun_construct_nary_tree_with_parent_id_node/Construct.java)|
 |hybrid data structure|[Most Recent k URLs](./algorithms/java/fun_most_recent_k_urls/README.md)|[Java](./algorithms/java/fun_most_recent_k_urls/MostRecentKUrls.java)|
 |hybrid data structure|[Design Add Remove Find Random APIs in O(1) time](./algorithms/java/fun_design_add_remove_find_random_in_o1/README.md)|[Java](./algorithms/java/fun_design_add_remove_find_random_in_o1/NewDataStructure.java)|
 |graph|[Top K M levels of Similar Songs](./algorithms/java/fun_top_k_m_levels_of_similar_songs/README.md)|[Java](./algorithms/java/fun_top_k_m_levels_of_similar_songs/TopKSimilarSongsWithAtMostMLevelDiff.java)|
