@@ -1,7 +1,6 @@
 class TopK {
-    public List<Integer> topKFrequent(int[] nums, int k) {
-        List<Integer> res = new ArrayList<>();
-        if (nums == null || nums.length == 0 || k <= 0) return res;
+    public int[] topKFrequent(int[] nums, int k) {
+        if (nums == null || nums.length == 0 || k <= 0) return nums;
         Map<Integer, Integer> freqMap = buildMap(nums);
         PriorityQueue<Map.Entry<Integer, Integer>> minHeap = new PriorityQueue<>(new MyComparator());
         for (Map.Entry<Integer, Integer> entry : freqMap.entrySet()) {
@@ -10,8 +9,10 @@ class TopK {
                 minHeap.poll();
             }
         }
+        int[] res = new int[k];
+        int i = 0;
         while (!minHeap.isEmpty()) {
-            res.add(minHeap.poll().getKey());
+            res[i++] = minHeap.poll().getKey();
         }
         return res;
     }
