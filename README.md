@@ -122,6 +122,7 @@ Code
 |tree|[Number of Edges Between Two Nodes](./algorithms/java/fun_number_of_edges_between_two_nodes/README.md)|[Java](./algorithms/java/fun_number_of_edges_between_two_nodes/NumberOfEdges.java)|
 |tree|[Change Value of Each Node of BST to Prefixsum](./algorithms/java/fun_change_value_of_each_node_of_bst_to_prefixsum/README.md)|[Java](./algorithms/java/fun_change_value_of_each_node_of_bst_to_prefixsum/ChangeValueToPrefixsum.java)|
 |tree|[Sum of Nested Integer Weighted by Depth](./algorithms/java/fun_sum_of_nested_integer_weighted_by_depth/README.md)|[Java](./algorithms/java/fun_sum_of_nested_integer_weighted_by_depth/NestedInteger.java)|
+|tree|[K Closest to Target in BST](./algorithms/java/fun_k_closest_to_target_in_bst/README.md)|[Java](./algorithms/java/fun_k_closest_to_target_in_bst/FindClosest.java)|
 |tree path|[Up Down Any to Any Largest Path Sum](./algorithms/java/fun_up_down_any_to_any_largest_path_sum/README.md)|[Java](./algorithms/java/fun_up_down_any_to_any_largest_path_sum/PathSum.java)|
 |tree path|[Any to Any Largest Path Sum](./algorithms/java/fun_any_to_any_largest_path_sum/README.md)|[Java](./algorithms/java/fun_any_to_any_largest_path_sum/PathSum.java)|
 |tree path|[Path Sum to Target](./algorithms/java/fun_path_sum_to_target/README.md)|[Java](./algorithms/java/fun_path_sum_to_target/PathSumToTarget.java)|
