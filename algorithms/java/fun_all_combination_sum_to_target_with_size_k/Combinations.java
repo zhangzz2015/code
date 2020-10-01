@@ -26,6 +26,7 @@ class Combinations {
     }
 
     // a better way: call less using iteration to avoid using recursion to go to the next level
+    // no time complexity change
     public List<List<Integer>> combinations2(int[] array, int target, int k) {
         List<List<Integer>> res = new ArrayList<>();
         if (array == null || array.length == 0 || k <= 0) return res;
