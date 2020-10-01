@@ -16,7 +16,7 @@ For backtracking recursion tree:<br>
               [1,2], 6     [1], 8    [2], 7    [], 9
               /     \         |
         prune       [1,2],6   |
-                              |
+                              | skip
                               |
                             /   \
                        [1,3],5  [1],8
