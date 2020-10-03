@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.Map;
+import java.util.HashMap;
 class NumberOfPairs {
     
     public static int numberOfPairs(int[] p, int[] q, int target) {
