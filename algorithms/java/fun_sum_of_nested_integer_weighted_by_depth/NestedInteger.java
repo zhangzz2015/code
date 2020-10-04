@@ -16,7 +16,7 @@ public class NestedInteger {
             if (ni.isInteger()) {
                 sum += ni.getInteger() * level;
             } else {
-                sum = sum(ni.getList(), level + 1, sum);
+                sum = sum1(ni.getList(), level + 1, sum);
             }
         }
         return sum;
@@ -33,7 +33,7 @@ public class NestedInteger {
             if (ni.isInteger()) {
                 sum += ni.getInteger() * level;
             } else {
-                sum += sum(ni.getList(), level + 1);
+                sum += sum2(ni.getList(), level + 1);
             }
         }
         return sum;
