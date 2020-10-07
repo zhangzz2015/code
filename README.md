@@ -99,6 +99,7 @@ Code
 |sliding window|[Number of Pairs Smaller or Equal to Target](./algorithms/java/fun_number_of_pairs_smaller_or_equal_than_targets/README.md)|[Java](./algorithms/java/fun_number_of_pairs_smaller_or_equal_than_targets/NumberOfPairSmallerOrEqualToTarget.java)|
 |sliding window|[Number of Pairs Difference Smaller or Equal to Target in Two Arrays](./algorithms/java/fun_number_of_pairs_smaller_or_euqual_in_two_arrays/README.md)|[Java](./algorithms/java/fun_number_of_pairs_smaller_or_euqual_in_two_arrays/NumberOfPairs.java)|
 |string|[Reverse Sentence in Size K](./algorithms/java/fun_reverse_string_in_size_k/README.md)|[Java](./algorithms/java/fun_reverse_string_in_size_k/ReverseInK.java)|
+|string|[Decode Parenthesis String](./algorithms/java/fun_decode_parenthesis_string/README.md)|[Java](./algorithms/java/fun_decode_parenthesis_string/Decode.java)|
 |tree|[Inorder Traversal in Binary Tree](./algorithms/java/fun_inorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_inorder_traversal_in_binary_tree/InorderTraversal.java)|
 |tree|[Preorder Traversal in Binary Tree](./algorithms/java/fun_preorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_preorder_traversal_in_binary_tree/PreorderTraversal.java)|
 |tree|[Postorder Traversal in Binary Tree](./algorithms/java/fun_postorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_postorder_traversal_in_binary_tree/PostorderTraversal.java)|
