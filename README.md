@@ -154,6 +154,6 @@ Code
 
 ### Data Structures
 
-|  |  |
+| Data Structures | Implement |
 |---|---|
 |Min Heap / PriorityQueue|[Java](./data_structures/min_heap/MinHeap.java)|
