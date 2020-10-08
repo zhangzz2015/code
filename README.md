@@ -151,3 +151,9 @@ Code
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
 |dp|[Largest Square Sum](./algorithms/java/fun_largest_square_sum/README.md)|[Java](./algorithms/java/fun_largest_square_sum/LargestSquareSum.java)|
 |dp|[Max weight Sum](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
+
+### Data Structures
+
+|  |  |
+|---| ----- | -------- | ---------- |
+|Min Heap / PriorityQueue|[Java](./data_structures/min_heap/MinHeap.java)|
