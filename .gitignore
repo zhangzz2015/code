@@ -1,4 +1,5 @@
 .idea
 *.class
 out
+.swp
 .vscode
