@@ -155,5 +155,6 @@ Code
 ### Data Structures
 
 | Data Structures | Implementation |
-|---|---|
+|--|--|
 |Min Heap / PriorityQueue|[Java](./data_structures/min_heap/MinHeap.java)|
+|Tree Inorder Iterator|[Java](./data_structures/tree_iterator/InorderIterator.java)|
