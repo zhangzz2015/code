@@ -11,6 +11,9 @@ class PreorderIterator {
 	}
 
 	public TreeNode next() {
+		if (!hasNext()) {
+			throw new NoSuchElementException("End of the iterator!");
+		}
 		TreeNode cur = stack.pollFirst();
 		if (cur.right != null) {
 			stack.offerFirst(cur.right);
