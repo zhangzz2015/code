@@ -2,9 +2,9 @@ class InorderIterator {
 	private Deque<TreeNode> stack;
 
 	public InorderInterator(TreeNode root) {
-		stack = new ArrayDeque<>();
+		this.stack = new ArrayDeque<>();
 		while (root != null) {
-			stack.push(root);
+			stack.offerFirst(root);
 			root = root.left;
 		}
 	}
@@ -17,10 +17,10 @@ class InorderIterator {
 		if (!hasNext()) {
 			throw NoSuchElementException("End of the iterator!");
 		}
-		TreeNode cur = stack.pop();
+		TreeNode cur = stack.pollFirst();
 		TreeNode tmp = cur.right;
 		while (tmp != null) {
-			stack.push(tmp);
+			stack.offerFirst(tmp);
 			tmp = tmp.left;
 		}
 		return cur.val;
@@ -48,14 +48,14 @@ class InorderIterator {
 		if (!hasNext()) {
 			throw NoSuchElementException("End of the iterator!");
 		}
-		TreeNode cur = stack.pop();
+		TreeNode cur = stack.pollFirst();
 		firstNode(cur.right);
 		return cur.val;
 	}
 
 	private void firstNode(TreeNode root) {
 		while (root != null) {
-			stack.push(root);
+			stack.offerFirst(root);
 			root = root.left;
 		}
 	}
