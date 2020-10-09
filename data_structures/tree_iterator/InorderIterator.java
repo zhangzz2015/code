@@ -15,7 +15,7 @@ class InorderIterator {
 
 	public Integer next() {
 		if (!hasNext()) {
-			throw NoSuchElementException("End of the iterator!");
+			throw new NoSuchElementException("End of the iterator!");
 		}
 		TreeNode cur = stack.pollFirst();
 		TreeNode tmp = cur.right;
@@ -46,7 +46,7 @@ class InorderIterator {
 
 	public Integer next() {
 		if (!hasNext()) {
-			throw NoSuchElementException("End of the iterator!");
+			throw new NoSuchElementException("End of the iterator!");
 		}
 		TreeNode cur = stack.pollFirst();
 		firstNode(cur.right);
