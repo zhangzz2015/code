@@ -7,5 +7,6 @@ Thus, we can use pure recursion to solve the problem.<br>
     - rightsubtree is uni-value
     - root.val == root.left.val == root.right.val
     - root.left == root.right == null
+
 time: O(n)<br>
 space: O(height)
