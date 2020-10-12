@@ -31,6 +31,7 @@ Code
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/154_find_minimum_in_rotated_sorted_array_2/FindMin.java)|[hard](./algorithms/java/154_find_minimum_in_rotated_sorted_array_2/README.md)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./algorithms/java/162_find_peak_element/FindPeak.java)|[medium](./algorithms/java/162_find_peak_element/README.md)|
 |167|[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./algorithms/java/167_two_sum_2/TwoSum2.java)|[easy](./algorithms/java/167_two_sum_2/README.md)|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java](./algorithms/java/198_house_robber/HouseRobber.java)|[easy](./algorithms/java/198_house_robber/README.md)|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Java](./algorithms/java/199_binary_tree_right_side_view/RightSideView.java)|[medium](./algorithms/java/199_binary_tree_right_side_view/README.md)|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Java](./algorithms/java/215_kth_largest_element_in_an_array/FindKthLargest.java)|[medium](./algorithms/java/215_kth_largest_element_in_an_array/README.md)|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Java](./algorithms/java/218_the_skyline_problem/SkyLine.java)|[hard](./algorithms/java/218_the_skyline_problem/README.md)|
