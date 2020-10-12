@@ -1,5 +1,4 @@
 public class CountUnivalueSubtree {
-    
     private int count = 0;
     public int countUnivalSubtree(TreeNode root) {
         isUni(root);
