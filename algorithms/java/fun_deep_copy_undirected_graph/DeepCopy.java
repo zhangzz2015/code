@@ -32,4 +32,32 @@ class DeepCopy {
 			copy.neighbors.add(map.get(nei));
 		}
 	}
+
+	// follow up
+	public List<GraphNode> reverseCopy(List<GraphNode> graph) {
+		if (graph == null) {
+			return null;
+		}
+		HashMap<GraphNode, GraphNode> map = new HashMap<>();
+		for (GraphNode node : graph) {
+			if (!map.containsKey(node)) {
+				map.put(node, new GraphNode(node.val));
+				reverseCopyDfs(node, map);
+			}
+		}
+		return new ArrayList<GraphNode>(map.values());
+	}
+
+	private void reverseCopyDfs(GraphNode node, HashMap<GraphNode, GraphNode> map) {
+		GraphNode copy = map.get(node);
+		if (copy != null) return; // already visited
+		copy = new GraphNode(node.val);
+		map.put(node, copy);
+		for (GraphNode nei : node.neighbors) {
+			reverseCopyDfs(nei, map);
+			// copy edges to current vertex
+			// must be after the dfs of neightbors, this can make sure that the copied node exists
+			map.get(node).neighbors.add(copy);
+		}
+	}
 }
