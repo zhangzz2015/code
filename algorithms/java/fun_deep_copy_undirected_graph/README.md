@@ -7,3 +7,6 @@ We can use a map to map the origin vertex to the copied vertex.<br>
 
 time: O(E + V)<br>
 space: O(V)
+
+# follow up: Make a reversed copy of the given directed graph
+We just need to reverse the edge when we add the copy to it.
