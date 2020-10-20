@@ -155,6 +155,7 @@ Code
 |backtracking|[All Combinations Sum to Target with Size k](./algorithms/java/fun_all_combination_sum_to_target_with_size_k/README.md)|[Java](./algorithms/java/fun_all_combination_sum_to_target_with_size_k/Combinations.java)|
 |graph|[Deep Copy an Undirected Graph](./algorithms/java/fun_deep_copy_undirected_graph/README.md)|[Java](./algorithms/java/fun_deep_copy_undirected_graph/DeepCopy.java)|
 |graph|[Determine if Graph Has Cycle](./algorithms/java/fun_determine_if_a_graph_has_cycle/README.md)|[Java](./algorithms/java/fun_determine_if_a_graph_has_cycle/HasCycle.java)|
+|graph|[Determine if Graph is Tree](./algorithms/java/fun_determine_if_a_graph_is_tree/README.md)|[Java](./algorithms/java/fun_determine_if_a_graph_is_tree/IsTree.java)|
 |graph|[Top K M levels of Similar Songs](./algorithms/java/fun_top_k_m_levels_of_similar_songs/README.md)|[Java](./algorithms/java/fun_top_k_m_levels_of_similar_songs/TopKSimilarSongsWithAtMostMLevelDiff.java)|
 |topolocigal sort|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
