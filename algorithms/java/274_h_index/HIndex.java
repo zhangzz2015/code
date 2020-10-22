@@ -1,6 +1,6 @@
 class HIndex {
 
-    //
+    // quick select
     public int hIndex1(int[] citations) {
         int length = citations.length;
         int left = 0;
