@@ -167,7 +167,8 @@ Code
 |graph|[Deep Copy an Undirected Graph](./algorithms/java/fun_deep_copy_undirected_graph/README.md)|[Java](./algorithms/java/fun_deep_copy_undirected_graph/DeepCopy.java)|
 |graph|[Determine if Graph Has Cycle](./algorithms/java/fun_determine_if_a_graph_has_cycle/README.md)|[Java](./algorithms/java/fun_determine_if_a_graph_has_cycle/HasCycle.java)|
 |graph|[Determine if Graph is Tree](./algorithms/java/fun_determine_if_a_graph_is_tree/README.md)|[Java](./algorithms/java/fun_determine_if_a_graph_is_tree/IsTree.java)|
-|graph|[All Reached Nodes by K Steps](./algorithms/java/fun_all_nodes_reached_by_k_steps/README.md)|[Java](./algorithms/java/fun_all_nodes_reached_by_k_steps/ReachedByKSteps.java)|
+|graph|[All Nodes Reached in K Steps](./algorithms/java/fun_all_nodes_reached_by_k_steps/README.md)|[Java](./algorithms/java/fun_all_nodes_reached_by_k_steps/ReachedByKSteps.java)|
+|graph|[All Nodes Reached by exactly K Steps](./algorithms/java/fun_all_nodes_reached_by_exactly_k_steps/README.md)|[Java](./algorithms/java/fun_all_nodes_reached_by_exactly_k_steps/ReachedByExactlyKSteps.java)|
 |graph|[Top K M levels of Similar Songs](./algorithms/java/fun_top_k_m_levels_of_similar_songs/README.md)|[Java](./algorithms/java/fun_top_k_m_levels_of_similar_songs/TopKSimilarSongsWithAtMostMLevelDiff.java)|
 |topological order|[Topological Order](./algorithms/java/fun_topological_order/README.md)|[Java](./algorithms/java/fun_topological_order/TopoOrder.java)|
 |topological order|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
