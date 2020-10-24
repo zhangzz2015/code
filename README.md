@@ -162,6 +162,7 @@ Code
 |hybrid data structure|[Most Recent k URLs](./algorithms/java/fun_most_recent_k_urls/README.md)|[Java](./algorithms/java/fun_most_recent_k_urls/MostRecentKUrls.java)|
 |hybrid data structure|[Design Add Remove Find Random APIs in O(1) time](./algorithms/java/fun_design_add_remove_find_random_in_o1/README.md)|[Java](./algorithms/java/fun_design_add_remove_find_random_in_o1/NewDataStructure.java)|
 |backtracking|[All Combinations Sum to Target with Size k](./algorithms/java/fun_all_combination_sum_to_target_with_size_k/README.md)|[Java](./algorithms/java/fun_all_combination_sum_to_target_with_size_k/Combinations.java)|
+|graph|[Basic BFS](./algorithms/java/fun_basic_bfs/README.md)|[Java](./algorithms/java/fun_basic_bfs/BFS.java)|
 |graph|[Deep Copy an Undirected Graph](./algorithms/java/fun_deep_copy_undirected_graph/README.md)|[Java](./algorithms/java/fun_deep_copy_undirected_graph/DeepCopy.java)|
 |graph|[Determine if Graph Has Cycle](./algorithms/java/fun_determine_if_a_graph_has_cycle/README.md)|[Java](./algorithms/java/fun_determine_if_a_graph_has_cycle/HasCycle.java)|
 |graph|[Determine if Graph is Tree](./algorithms/java/fun_determine_if_a_graph_is_tree/README.md)|[Java](./algorithms/java/fun_determine_if_a_graph_is_tree/IsTree.java)|
