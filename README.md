@@ -14,6 +14,7 @@ Code
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/java/35_search_insert_position/SearchInsert.java)|[easy](./algorithms/java/35_search_insert_position/README.md)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](./algorithms/java/37_soduku_solver/SudokuSolver.java)|[hard](./algorithms/java/37_soduku_solver/README.md)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/java/53_maximum_subarray/MaxSubarray.java)|[easy](./algorithms/java/53_maximum_subarray/README.md)|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/java/55_jump_game/JumpGame.java)|[medium](./algorithms/java/55_jump_game/README.md)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./algorithms/java/69_sqrtx/Sqrt.java)|[easy](./algorithms/java/69_sqrtx/README.md)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/java/72_edit_distance/EditDistance.java)|[hard](./algorithms/java/72_edit_distance/README.md)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/java/74_search_a_2d_matrix/SearchMatrix.java)|[medium](./algorithms/java/74_search_a_2d_matrix/README.md)|
