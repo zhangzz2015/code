@@ -13,6 +13,7 @@ Code
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./algorithms/java/33_search_in_rotated_sorted_array/RotatedSearch.java)|[medium](./algorithms/java/33_search_in_rotated_sorted_array/README.md)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/java/35_search_insert_position/SearchInsert.java)|[easy](./algorithms/java/35_search_insert_position/README.md)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](./algorithms/java/37_soduku_solver/SudokuSolver.java)|[hard](./algorithms/java/37_soduku_solver/README.md)|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./algorithms/java/45_jump_game_2/JumpGame.java)|[hard](./algorithms/java/45_jump_game_2/README.md)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/java/53_maximum_subarray/MaxSubarray.java)|[easy](./algorithms/java/53_maximum_subarray/README.md)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/java/55_jump_game/JumpGame.java)|[medium](./algorithms/java/55_jump_game/README.md)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./algorithms/java/69_sqrtx/Sqrt.java)|[easy](./algorithms/java/69_sqrtx/README.md)|
