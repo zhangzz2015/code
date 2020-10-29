@@ -19,6 +19,7 @@ Code
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./algorithms/java/69_sqrtx/Sqrt.java)|[easy](./algorithms/java/69_sqrtx/README.md)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/java/72_edit_distance/EditDistance.java)|[hard](./algorithms/java/72_edit_distance/README.md)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/java/74_search_a_2d_matrix/SearchMatrix.java)|[medium](./algorithms/java/74_search_a_2d_matrix/README.md)|
+|75||[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./algorithms/java/75_sort_colors/SortColors.java)|[medium](./algorithms/java/75_sort_colors/README.md)|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/81_search_in_rotated_sorted_array_2/RotatedSearch.java)|[medium](./algorithms/java/81_search_in_rotated_sorted_array_2/README.md)|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[Java](./algorithms/java/99_recover_binary_search_tree/Recover.java)|[hard](./algorithms/java/99_recover_binary_search_tree/README.md)|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Java](./algorithms/java/103_binary_tree_zigzag_level_order_traversal/ZigzagLevelOrder.java)|[medium](./algorithms/java/103_binary_tree_zigzag_level_order_traversal/README.md)|
