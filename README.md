@@ -108,6 +108,7 @@ Code
 |sorting|[Merge Sort](./algorithms/java/fun_merge_sort/REAEDME.md)|[Java](./algorithms/java/fun_merge_sort/MergeSort.java)|
 |sorting|[Quick Sort](./algorithms/java/fun_quick_sort/README.md)|[Java](./algorithms/java/fun_quick_sort/QuickSort.java)|
 |sorting|[Quick Select](./algorithms/java/fun_quick_select/README.md)|[Java](./algorithms/java/fun_quick_select/QuickSelect.java)|
+|sorting|[Rainbow Sort with K Color](./algorithms/java/fun_rainbow_sort_k_colors/README.md)|[Java](./algorithms/java/fun_rainbow_sort_k_colors/RainbowSort.java)|
 |linked list|[Reverse a Doubly Linked List](./algorithms/java/fun_reverse_doubly_linked_list/README.md)|[Java](./algorithms/java/fun_reverse_doubly_linked_list/ReverseDoublyLinkedList.java)|
 |two pointers|[Number of Pairs of Two Sum](./algorithms/java/fun_number_of_two_sum_with_duplicate/README.md)|[Java](./algorithms/java/fun_number_of_two_sum_with_duplicate/NumberOfTwoSum.java)|
 |two pointers|[Two Sum from Two Arrays](./algorithms/java/fun_two_sum_from_two_arrays/README.md)|[Java](./algorithms/java/fun_two_sum_from_two_arrays/TwoSum.java)|
