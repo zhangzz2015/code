@@ -92,6 +92,7 @@ Code
 |1095|[Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|[Java](./algorithms/java/1095_find_in_mountain_array/MountainArray.java)|[hard](./algorithms/java/1095_find_in_mountain_array/README.md)|
 |1228|[Missing Number in Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/)|[Java](./algorithms/java/1228_missing_number_in_arithmetic_progression/MissingNumber.java)|[easy](./algorithms/java/1228_missing_number_in_arithmetic_progression/README.md)|
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Java](./algorithms/java/1306_jump_game_3/JumpGame.java)|[medium](./algorithms/java/1306_jump_game_3/README.md)|
+|1602|[Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/)|[Java](./algorithms/java/1602_find_nearest_right_node_in_binary_tree/FindNearestRightNode.java)|[medium](./algorithms/java/1602_find_nearest_right_node_in_binary_tree/README.md)|
 
 ### Fun Problems
 
