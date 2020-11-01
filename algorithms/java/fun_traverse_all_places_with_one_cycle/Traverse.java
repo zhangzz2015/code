@@ -42,14 +42,14 @@ class Traverse {
         Traverse solve = new Traverse();
         String[][] roads1 = {{"a", "b"}, {"b", "c"}, {"c", "d"}, {"d", "a"}};
         String[][] roads2 = {{"a", "b"}, {"b", "c"}, {"c", "a"}, {"d", "a"}};
-		String[][] roads3 = {{"a", "b"}, {"b", "c"}, {"b", "d"}, {"d", "c"}, {"c", "a"}};
-		// expect abcda
+	String[][] roads3 = {{"a", "b"}, {"b", "c"}, {"b", "d"}, {"d", "c"}, {"c", "a"}};
+	// expect abcda
         solve.getPath(roads1).forEach(System.out::print);
         System.out.println("");
-		// expect empty
+	// expect empty
         solve.getPath(roads2).forEach(System.out::print);
-		System.out.println("");
-		// expect abdca
-		solve.getPath(roads3).forEach(System.out::print);
+	System.out.println("");
+	// expect abdca
+	solve.getPath(roads3).forEach(System.out::print);
     }
 }
