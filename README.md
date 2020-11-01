@@ -76,6 +76,7 @@ Code
 |510|[Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|[Java](./algorithms/java/510_inorder_successor_in_bst_2/Successor.java)|[medium](./algorithms/java/510_inorder_successor_in_bst_2/README.md)|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Java](./algorithms/java/518_coin_change_2/CoinChange2.java)|[medium](./algorithms/java/518_coin_change_2/README.md)|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java](./algorithms/java/540_single_element_in_a_sorted_array/SingleNonDuplicate.java)|[medium](./algorithms/java/540_single_element_in_a_sorted_array/README.md)|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[Java](./algorithms/java/542_01_matrix/UpdateMatrix.java)|[medium](./algorithms/java/542_01_matrix/README.md)|
 |545|[Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)|[Java](./algorithms/java/545_boundary_of_binary_tree/BoundaryofBinaryTree.java)|[medium](./algorithms/java/545_boundary_of_binary_tree/README.md)|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|[Java](./algorithms/java/547_friend_circles/FriendCircle.java)|[medium](./algorithms/java/547_friend_circles/README.md)|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](./algorithms/java/611_valid_triangle_number/ValidTriangleNumber.java)|[medium](./algorithms/java/611_valid_triangle_number/README.md)|
