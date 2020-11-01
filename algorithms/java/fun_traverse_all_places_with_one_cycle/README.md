@@ -11,13 +11,13 @@ We want to traverse all the paths in the map.<br>
 if it has a cycle containing all cities, then starting from any node is ok.<br>
 If using an arbitrary node as start cannot get the result then that means we do not have the answer in the graph, then we return an empty list.
 
-				[]
+			    []
 			   /  \prune
 			  a
 			/ \ \prune
-		   ab ac
-		  / \
-		abc
+		       ab ac
+		      / \
+		    abc
 		each level: dicide which current city add to the path
 		branches: go to the different valid neighbors
 
