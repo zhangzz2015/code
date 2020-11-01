@@ -1,3 +1,4 @@
+# Given an sorted array, find number of triples i smaller than j smaller than k, where array[i] + array[j] + array[k] smaller than target
 ## two pointer
 We can fix a dimension k, and then for each k, we just need to find the number of pairs i, j that array[i] + array[j] < target - array[k].
 
