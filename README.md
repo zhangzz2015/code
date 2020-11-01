@@ -180,6 +180,7 @@ Code
 |graph|[All Nodes Reached in K Steps](./algorithms/java/fun_all_nodes_reached_by_k_steps/README.md)|[Java](./algorithms/java/fun_all_nodes_reached_by_k_steps/ReachedByKSteps.java)|
 |graph|[All Nodes Reached by exactly K Steps](./algorithms/java/fun_all_nodes_reached_by_exactly_k_steps/README.md)|[Java](./algorithms/java/fun_all_nodes_reached_by_exactly_k_steps/ReachedByExactlyKSteps.java)|
 |graph|[Top K M levels of Similar Songs](./algorithms/java/fun_top_k_m_levels_of_similar_songs/README.md)|[Java](./algorithms/java/fun_top_k_m_levels_of_similar_songs/TopKSimilarSongsWithAtMostMLevelDiff.java)|
+|graph|[Traverse All Places with One Cycle](./algorithms/java/fun_traverse_all_places_with_one_cycle/README.md)|[Java](./algorithms/java/fun_traverse_all_places_with_one_cycle/Traverse.java)|
 |topological order|[Topological Order](./algorithms/java/fun_topological_order/README.md)|[Java](./algorithms/java/fun_topological_order/TopoOrder.java)|
 |topological order|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
