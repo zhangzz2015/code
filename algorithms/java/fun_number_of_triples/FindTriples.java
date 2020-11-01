@@ -1,4 +1,5 @@
 class FindTriples {
+	// cleaner way to write
 	public int findTriples(int[] array, int target) {
 		int res = 0;
 		for (int k = array.length - 1; i >= 2; i--) {
