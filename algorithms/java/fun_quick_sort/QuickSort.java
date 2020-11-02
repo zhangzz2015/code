@@ -12,7 +12,7 @@ public class QuickSort {
 		if (left >= right) return;
 		int pivotIndex = partition(array, left, right);
 		// the pivot is already at its position, thus when we do the recursive call 
-		// on the two partitions, pivot should not be included in any of the call
+		// on the two partitions, the pivot should not be included in any of the call
 		quickSort(array, left, pivotIndex - 1);
 		quickSort(array, pivotIndex + 1, right);
 	}
