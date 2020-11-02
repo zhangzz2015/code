@@ -184,6 +184,7 @@ Code
 |graph|[Top K M levels of Similar Songs](./algorithms/java/fun_top_k_m_levels_of_similar_songs/README.md)|[Java](./algorithms/java/fun_top_k_m_levels_of_similar_songs/TopKSimilarSongsWithAtMostMLevelDiff.java)|
 |graph|[Divide People with Whom They Want to Work With](./algorithms/java/fun_divide_people_to_whom_they_want_to_work_with/README.md)|[Java](./algorithms/java/fun_divide_people_to_whom_they_want_to_work_with/Group.java)|
 |graph|[Traverse All Places with One Cycle](./algorithms/java/fun_traverse_all_places_with_one_cycle/README.md)|[Java](./algorithms/java/fun_traverse_all_places_with_one_cycle/Traverse.java)|
+|graph|[Bi-Directional BFS](./algorithms/java/fun_bi_directional_bfs/README.md)|[Java](./algorithms/java/fun_bi_directional_bfs/BiDirectionalBFS.java)|
 |topological order|[Topological Order](./algorithms/java/fun_topological_order/README.md)|[Java](./algorithms/java/fun_topological_order/TopoOrder.java)|
 |topological order|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
