@@ -44,12 +44,12 @@ public class FilesCompileOrder {
         initializeQueue(queue, files);
         while (!queue.isEmpty()) {
             SourceFile file = queue.poll();
-            for (SourceFile dependency : graph.get(file)) {
-                int count = indegree.get(dependency);
+            for (SourceFile depender : graph.get(file)) {
+                int count = indegree.get(depender);
                 if (count == 1) {
-                    queue.offer(dependency);
+                    queue.offer(depender);
                 } else {
-                    indegree.put(dependency, count - 1);
+                    indegree.put(depender, count - 1);
                 }
             }
             filesOrder.add(file);
