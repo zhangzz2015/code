@@ -48,6 +48,6 @@ class DFS {
 		for (Vertex n : v.neighbors) {
 			dfs3(n);
 		}
-		v.state = State.UNVISITED; // recover, remove current node from the cuurent dfs path
+		v.state = State.UNVISITED; // recover, remove current node from the current dfs path
 	}
 }
