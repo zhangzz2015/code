@@ -6,4 +6,4 @@ for each j as the end of the substring:
 - when we are out of the while loop that means the number of the unique letters is smaller or equal than 2, than we can update the result.
 
 time: O(n)<br>
-space: O(n)
+space: O(1)
