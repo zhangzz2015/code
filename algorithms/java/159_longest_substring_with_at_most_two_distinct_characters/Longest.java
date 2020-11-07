@@ -3,7 +3,7 @@ class Longest {
 		if (s == null || s.length() == 0) {
 			return 0;
 		}
-		int res = 0;
+		int longest = 0;
 		int i = 0;
 		Map<Character, Integer> map = new HashMap<>();
 		for (int j = 0; j < s.length(); j++) {
@@ -19,8 +19,8 @@ class Longest {
 				}
 				i++;
 			}
-			res = Math.max(res, j - i + 1);
+			longest = Math.max(longest, j - i + 1);
 		}
-		return res;
+		return longest;
 	}
 }
