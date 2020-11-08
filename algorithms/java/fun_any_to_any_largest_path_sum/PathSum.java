@@ -1,6 +1,10 @@
 public class PathSum {    
     int globalMax = Integer.MIN_VALUE;
-    public int largest(TreeNode root) {
+	public int maxPathSum(TreeNode root) {
+		largest(root);
+		return globalMax;
+	}
+    private int largest(TreeNode root) {
         // base case
         if (root == null) return 0;
         // recursion
