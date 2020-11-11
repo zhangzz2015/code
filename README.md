@@ -197,6 +197,12 @@ Code
 |dp|[Largest Square Sum](./algorithms/java/fun_largest_square_sum/README.md)|[Java](./algorithms/java/fun_largest_square_sum/LargestSquareSum.java)|
 |dp|[Max weight Sum](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
 
+### Designs
+
+| Design | Implementation |
+|--|--|
+|[Browser History](./design/browser_history/README.md)|[Java](./design/browser_history/BrowserHistory.java)|
+
 ### Data Structures
 
 | Data Structures | Implementation |
