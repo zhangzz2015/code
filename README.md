@@ -178,7 +178,6 @@ Code
 |construct tree|[Construct N-ary Tree with Parent Id Node](./algorithms/java/fun_construct_nary_tree_with_parent_id_node/README.md)|[Java](./algorithms/java/fun_construct_nary_tree_with_parent_id_node/Construct.java)|
 |hybrid data structure|[K-diff Sorted Array](./algorithms/java/fun_k_diff_sorted_array/README.md)|[Java](./algorithms/java/fun_k_diff_sorted_array/KDiff.java)|
 |hybrid data structure|[Most Recent k URLs](./algorithms/java/fun_most_recent_k_urls/README.md)|[Java](./algorithms/java/fun_most_recent_k_urls/MostRecentKUrls.java)|
-|hybrid data structure|[Design Add Remove Find Random APIs in O(1) time](./algorithms/java/fun_design_add_remove_find_random_in_o1/README.md)|[Java](./algorithms/java/fun_design_add_remove_find_random_in_o1/NewDataStructure.java)|
 |backtracking|[All Combinations Sum to Target with Size k](./algorithms/java/fun_all_combination_sum_to_target_with_size_k/README.md)|[Java](./algorithms/java/fun_all_combination_sum_to_target_with_size_k/Combinations.java)|
 |graph|[Basic DFS](./algorithms/java/fun_basic_dfs/README.md)|[Java](./algorithms/java/fun_basic_dfs/DFS.java)|
 |graph|[Basic BFS](./algorithms/java/fun_basic_bfs/README.md)|[Java](./algorithms/java/fun_basic_bfs/BFS.java)|
@@ -199,10 +198,10 @@ Code
 
 ### Designs
 
-| Design | Implementation |
+| Designs | Implementation |
 |--|--|
-|[Browser History](./design/browser_history/README.md)|[Java](./design/browser_history/BrowserHistory.java)|
-
+|[Browser History](./designs/browser_history/README.md)|[Java](./designs/browser_history/BrowserHistory.java)|
+|[Design Add Remove Find Random APIs in O(1) time](./designs/design_add_remove_find_random_in_o1/README.md)|[Java](./designs/design_add_remove_find_random_in_o1/NewDataStructure.java)|
 ### Data Structures
 
 | Data Structures | Implementation |
