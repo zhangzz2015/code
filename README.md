@@ -208,6 +208,7 @@ Code
 
 | Data Structures | Implementation |
 |--|--|
+|Queue|[Java](./data_structures/queue/Queue.java)|
 |Min Heap / PriorityQueue|[Java](./data_structures/min_heap/MinHeap.java)|
 |Tree Inorder Iterator|[Java](./data_structures/tree_iterator/InorderIterator.java)|
 |Binary Search Tree Inorder Asc/Des Iterator|[Java](./data_structures/tree_iterator/AscDesInorderIterator.java)|
