@@ -199,13 +199,8 @@ Code
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
 |dp|[Largest Square Sum](./algorithms/java/fun_largest_square_sum/README.md)|[Java](./algorithms/java/fun_largest_square_sum/LargestSquareSum.java)|
 |dp|[Max weight Sum](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
+|intervals|[Common Free Intervals for Employees](./algorithms/java/fun_common_free_interval_for_employees/README.md)|[Java](./algorithms/java/fun_common_free_interval_for_employees/FreeTime.java)|
 
-### Designs
-
-| Designs | Implementation |
-|--|--|
-|[Browser History](./designs/browser_history/README.md)|[Java](./designs/browser_history/BrowserHistory.java)|
-|[Design Add Remove Find Random APIs in O(1) time](./designs/design_add_remove_find_random_in_o1/README.md)|[Java](./designs/design_add_remove_find_random_in_o1/NewDataStructure.java)|
 ### Data Structures
 
 | Data Structures | Implementation |
@@ -217,3 +212,10 @@ Code
 |Tree Preorder Iterator|[Java](./data_structures/tree_iterator/PreorderIterator.java)|
 |Tree Postorder Iterator|[Java](./data_structures/tree_iterator/PostorderIterator.java)|
 |Union Find|[Java](./data_structures/union_find/UnionFind.java)|
+
+### Designs
+
+| Designs | Implementation |
+|--|--|
+|[Browser History](./designs/browser_history/README.md)|[Java](./designs/browser_history/BrowserHistory.java)|
+|[Design Add Remove Find Random APIs in O(1) time](./designs/design_add_remove_find_random_in_o1/README.md)|[Java](./designs/design_add_remove_find_random_in_o1/NewDataStructure.java)|
