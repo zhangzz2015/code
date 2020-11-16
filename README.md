@@ -57,6 +57,7 @@ Code
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](./algorithms/java/239_sliding_window_maximum/SlidingWindowMaximum.java)|[medium](./algorithms/java/239_sliding_window_maximum/SlidingWindowMaximum.java)|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Java](./algorithms/java/240_search_a_2d_matrix_2/SearchMatrix.java)|[medium](./algorithms/java/240_search_a_2d_matrix_2/README.md)|
 |250|[Count Univalue Subtree](https://leetcode.com/problems/count-univalue-subtrees/)|[Java](./algorithms/java/250_count_univalue_subtree/CountUnivalueSubtree.java)|[medium](./algorithms/java/250_count_univalue_subtree/README.md)|
+|252|[Meeting Room](https://leetcode.com/problems/meeting-rooms/)|[Java](./algorithms/java/252_meeting_room/MeetingRoom.java)|[easy](./algorithms/java/252_meeting_room/README.md)|
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|[Java](./algorithms/java/255_verify_preorder_sequence_in_binary_search_tree/Check.java)|[medium](./algorithms/java/255_verify_preorder_sequence_in_binary_search_tree/README.md)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./algorithms/java/268_missing_number/MissingNumber.java)|[easy](./algorithms/java/268_missing_number/README.md)|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Java](./algorithms/java/269_alien_dictionary/AlienDic.java)|[hard](./algorithms/java/269_alien_dictionary/README.md)|
