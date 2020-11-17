@@ -39,7 +39,8 @@ class Group {
 			int curGroup = visited.get(cur);
 			int neiGroup = curGroup == 0 ? 1 : 0;
 			for (Character nei : map.get(cur)) {
-				if (!visited.containsKey(nei)) {
+				Integer group = visited.get(nei);
+				if (group == null) {
 					visited.put(nei, neiGroup);
 					if (neiGroup == 0) {
 						one.add(nei);
@@ -47,7 +48,7 @@ class Group {
 						two.add(nei);
 					}
 					queue.offer(nei);
-				} else if (visited.get(nei) != neiGroup) {
+				} else if (group != neiGroup) {
 					return false;
 				}
 			}
