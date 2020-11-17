@@ -7,6 +7,7 @@ Code
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./algorithms/cpp/1_two_sum/TwoSum.cpp) , [Java](./algorithms/java/1_two_sum/TwoSum.java)|[easy](./algorithms/java/1_two_sum/README.md)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./algorithms/java/2_add_two_numbers/AddTwoNumbers.java)|[medium](./algorithms/java/2_add_two_numbers/README.md)|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./algorithms/java/3_longest_substring_without_repeating_characters/Longest.java)|[medium](./algorithms/java/3_longest_substring_without_repeating_characters/README.md)|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./algorithms/java/8_string_to_integer/Atoi.java)|[medium](./algorithms/java/8_string_to_integer/README.md)|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./algorithms/java/15_3sum/ThreeSum.java)|[medium](./algorithms/java/15_3sum/README.md)|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./algorithms/java/16_3sum_closest/3SumClosest.java)|[medium](./algorithms/java/16_3sum_closest/README.md)|
