@@ -201,6 +201,7 @@ Code
 |graph|[Traverse All Places with One Cycle](./algorithms/java/fun_traverse_all_places_with_one_cycle/README.md)|[Java](./algorithms/java/fun_traverse_all_places_with_one_cycle/Traverse.java)|
 |graph|[Bi-Directional BFS](./algorithms/java/fun_bi_directional_bfs/README.md)|[Java](./algorithms/java/fun_bi_directional_bfs/BiDirectionalBFS.java)|
 |topological order|[Topological Order](./algorithms/java/fun_topological_order/README.md)|[Java](./algorithms/java/fun_topological_order/TopoOrder.java)|
+|topological order|[Get All Topological Order](./algorithms/java/fun_get_all_topological_order/README.md)|[Java](./algorithms/java/fun_get_all_topological_order/AllTopo.java)|
 |topological order|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
 |dp|[Largest Square Sum](./algorithms/java/fun_largest_square_sum/README.md)|[Java](./algorithms/java/fun_largest_square_sum/LargestSquareSum.java)|
