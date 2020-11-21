@@ -206,6 +206,7 @@ Code
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
 |dp|[Largest Square Sum](./algorithms/java/fun_largest_square_sum/README.md)|[Java](./algorithms/java/fun_largest_square_sum/LargestSquareSum.java)|
 |dp|[Max weight Sum](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
+|dp|[Maximum Subset Sum](./algorithms/cpp/fun_maximum_subset_sum/README.md)|[C++](./algorithms/cpp/fun_maximum_subset_sum/Max.cpp)|
 |intervals|[Common Free Intervals for Employees](./algorithms/java/fun_common_free_interval_for_employees/README.md)|[Java](./algorithms/java/fun_common_free_interval_for_employees/FreeTime.java)|
 
 ### Data Structures
