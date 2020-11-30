@@ -19,6 +19,7 @@ Code
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/java/35_search_insert_position/SearchInsert.java)|[easy](./algorithms/java/35_search_insert_position/README.md)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](./algorithms/java/37_soduku_solver/SudokuSolver.java)|[hard](./algorithms/java/37_soduku_solver/README.md)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./algorithms/java/39_combination_sum/CombinationSum.java)|[medium](./algorithms/java/39_combination_sum/README.md)|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](./algorithms/java/40_combination_sum_2/CombinationSum.java)|[medium](./algorithms/java/40_combination_sum_2/README.md)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./algorithms/java/45_jump_game_2/JumpGame.java)|[hard](./algorithms/java/45_jump_game_2/README.md)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/java/53_maximum_subarray/MaxSubarray.java)|[easy](./algorithms/java/53_maximum_subarray/README.md)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/java/55_jump_game/JumpGame.java)|[medium](./algorithms/java/55_jump_game/README.md)|
