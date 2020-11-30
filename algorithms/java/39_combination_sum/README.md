@@ -20,7 +20,7 @@ space: O(n)
 For each level we want to choose from the all the candidates.<br>
 when the target is summed up we can return.<br>
 to avoid duplicates like [2,2,3], [2,3,2], [3,2,2], because we are trying to find the value combination instead of the index combination. We can perform an order trick.<br>
-For each level we want to choose from the candidates for that candidate and candidates after that candidate. We will not rechoose the candidates before the current candidate we are choosing.<br>
+For each level we want to choose from that candidate and candidates after that candidate to add to the current sum. We will not rechoose the candidates before the current candidate we are choosing.<br>
 
 	candidates = [2, 3, 6, 7]
 
