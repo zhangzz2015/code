@@ -24,11 +24,11 @@ For each level we want to choose from the candidates for that candidate and cand
 
 	candidates = [2, 3, 6, 7]
 
-						    []
-				 /             \           \     \
-				[2]            [3]         [6]    [7]
-			  /     /   \    \        /   \    \
-			[2,2] [2,3] [2,6] [2,7]  [3,3] [3,6] [3,7] ....
+						          []
+				 /                     \              \     \
+				[2]                     [3]           [6]    [7]
+			  /     /   \    \           /   \    \
+			[2,2] [2,3] [2,6] [2,7]   [3,3][3,6][3,7] ....
 			......
 
 time: O(!n)<br>
