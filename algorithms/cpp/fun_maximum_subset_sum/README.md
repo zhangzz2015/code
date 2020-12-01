@@ -5,9 +5,9 @@ we can use dynamic programming to solve this problem.
 	1. dp[i] means the max weight using numbers from [0, i] under the limit ending at index i
 	2. induction rule:
 		dp[i] = max:
-					- array[i] <= capacity: array[i]
-					- array[i] + array[j] <= capacity: array[i] + array[j]
-					- array[i] + dp[j] <= capacity: array[i] + dp[j]
+	                - array[i] <= capacity: array[i]
+	                - array[i] + array[j] <= capacity: array[i] + array[j]
+	                - array[i] + dp[j] <= capacity: array[i] + dp[j]
 		0 <= j < i
 	3. result:
 		maintain a global max of each dp[i]
