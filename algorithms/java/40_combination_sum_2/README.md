@@ -5,13 +5,13 @@ we choose to pick or not pick the element at each index. To avoid duplicate situ
 			sorted candidates [1, 1, 2, 2, 5] target = 5
 
 			                     ""
-						       /    \
-							  1     ""
-							 / \       |skip
-							11   1     |
-						   / \  / \   /  \
-						112  11 12 1  2  ""
-						...
+			                   /    \
+			                  1     ""
+			                 / \       |skip
+			                11   1     |
+			               / \  / \   /  \
+			              112  11 12 1  2  ""
+			              ...
 
 time: O(2^n)<br>
 space: O(n)
@@ -22,11 +22,11 @@ we choose all the possible candidate and add to the sum for each level. To avoid
 			sorted candidates [1, 1, 2, 2, 5] target = 5
 
 			                          ""
-					           /         \    \ 
-							  1           2    5
-							 / \   \     / \   / \
+			                   /         \    \ 
+			                  1           2    5
+			                 / \   \     / \   / \
 			                11  12 15   22 25 52 55
-							....
+			                ....
 
 time: O(nlogn + !n)<br>
 space: O(n)
