@@ -1,17 +1,17 @@
 # Given a binary tree, and a random node in it which is on fire, it will burn a level of node in one hour, then return the total number of hours to burn down the whole tree.
 For example the start node is node 24.
 
-					 	10
-				   /           \
-				  5             25
-				/   \         /    \
+			            10
+			       /           \
+			      5             25
+			    /   \         /    \
 			   2     7       21     30
 			                /  \
-						   20   24(start)
-						  /     / \
-						 18    23  26
-						/  \
-					   17  19
+			               20   24(start)
+			              /     / \
+			             18    23  26
+			            /  \
+			           17  19
 
 For this problem, we want to find the node that has the max distance to the first starting node.<br>
 We can use recursion to solve the problem.<br>
