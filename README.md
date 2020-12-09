@@ -10,6 +10,7 @@ Code
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./algorithms/java/3_longest_substring_without_repeating_characters/Longest.java)|[medium](./algorithms/java/3_longest_substring_without_repeating_characters/README.md)|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java](./algorithms/java/5_longest_palindromic_substring/LongestPalindrome.java)|[medium](./algorithms/java/5_longest_palindromic_substring/README.md)|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./algorithms/java/8_string_to_integer/Atoi.java)|[medium](./algorithms/java/8_string_to_integer/README.md)|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](./algorithms/java/10_regular_expression_matching/Match.java)|[hard](./algorithms/java/10_regular_expression_matching/README.md)|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./algorithms/java/15_3sum/ThreeSum.java)|[medium](./algorithms/java/15_3sum/README.md)|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./algorithms/java/16_3sum_closest/3SumClosest.java)|[medium](./algorithms/java/16_3sum_closest/README.md)|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](./algorithms/java/23_merge_k_sorted_lists/MergeK.java)|[hard](./algorithms/java/23_merge_k_sorted_lists/README.md)|
