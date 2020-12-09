@@ -229,6 +229,7 @@ Code
 |Tree Preorder Iterator|[Java](./data_structures/tree_iterator/PreorderIterator.java)|
 |Tree Postorder Iterator|[Java](./data_structures/tree_iterator/PostorderIterator.java)|
 |Union Find|[Java](./data_structures/union_find/UnionFind.java)|
+|Trie|[Java](./data_structures/trie/Trie.java)|
 
 ### Designs
 
