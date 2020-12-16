@@ -9,6 +9,5 @@ There are two ways to use the while loop condition:
 
 Usually, using the second way is used more, because after we find mid we usually want to break the linked list and it would be easier to do using the second method.
 
-time: O(n)
-
+time: O(n)<br>
 space: O(1)
