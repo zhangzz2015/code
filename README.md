@@ -136,7 +136,6 @@ Code
 |sorting|[Quick Sort](./algorithms/java/fun_quick_sort/README.md)|[Java](./algorithms/java/fun_quick_sort/QuickSort.java)|
 |sorting|[Quick Select](./algorithms/java/fun_quick_select/README.md)|[Java](./algorithms/java/fun_quick_select/QuickSelect.java)|
 |sorting|[Rainbow Sort with K Color](./algorithms/java/fun_rainbow_sort_k_colors/README.md)|[Java](./algorithms/java/fun_rainbow_sort_k_colors/RainbowSort.java)|
-|linked list|[Reverse a Doubly Linked List](./algorithms/java/fun_reverse_doubly_linked_list/README.md)|[Java](./algorithms/java/fun_reverse_doubly_linked_list/ReverseDoublyLinkedList.java)|
 |two pointers|[Number of Pairs of Two Sum](./algorithms/java/fun_number_of_two_sum_with_duplicate/README.md)|[Java](./algorithms/java/fun_number_of_two_sum_with_duplicate/NumberOfTwoSum.java)|
 |two pointers|[Two Sum from Two Arrays](./algorithms/java/fun_two_sum_from_two_arrays/README.md)|[Java](./algorithms/java/fun_two_sum_from_two_arrays/TwoSum.java)|
 |two pointers|[Number of Triples Smaller than Target](./algorithms/java/fun_number_of_triples/README.md)|[Java](./algorithms/java/fun_number_of_triples/FindTriples.java)|
@@ -152,6 +151,8 @@ Code
 |sliding window|[Size of Longest Subarray with Any Absolute Difference Smaller than Target](./algorithms/java/fun_size_of_longest_subarray_with_any_absolute_difference_smaller_than_target/README.md)|[Java](./algorithms/java/fun_size_of_longest_subarray_with_any_absolute_difference_smaller_than_target/GetSize.java)|
 |string|[Reverse Sentence in Size K](./algorithms/java/fun_reverse_string_in_size_k/README.md)|[Java](./algorithms/java/fun_reverse_string_in_size_k/ReverseInK.java)|
 |string|[Decode Parenthesis String](./algorithms/java/fun_decode_parenthesis_string/README.md)|[Java](./algorithms/java/fun_decode_parenthesis_string/Decode.java)|
+|linked list|[Reverse a Doubly Linked List](./algorithms/java/fun_reverse_doubly_linked_list/README.md)|[Java](./algorithms/java/fun_reverse_doubly_linked_list/ReverseDoublyLinkedList.java)|
+|linked list|[Find Middle Node of Linked List](./algorithms/java/fun_find_middle_node/README.md)|[Java](./algorithms/java/fun_find_middle_node/FindMid.java)|
 |tree|[Inorder Traversal in Binary Tree](./algorithms/java/fun_inorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_inorder_traversal_in_binary_tree/InorderTraversal.java)|
 |tree|[Preorder Traversal in Binary Tree](./algorithms/java/fun_preorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_preorder_traversal_in_binary_tree/PreorderTraversal.java)|
 |tree|[Postorder Traversal in Binary Tree](./algorithms/java/fun_postorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_postorder_traversal_in_binary_tree/PostorderTraversal.java)|
