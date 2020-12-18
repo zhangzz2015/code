@@ -6,7 +6,7 @@ There are n levels. We can maintain a length n array representing the column num
 
 	               []
 	           /      \ \ \ \\ \
-			  0        1  2 ...  n
+	         0        1  2 ...  n
 	       /\  \ \  \ 
 	      00 01 02 ...0n   ...
 	      ....
