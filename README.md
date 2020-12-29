@@ -237,6 +237,7 @@ Code
 |Tree Postorder Iterator|[Java](./data_structures/tree_iterator/PostorderIterator.java)|
 |Union Find|[Java](./data_structures/union_find/UnionFind.java)|
 |Trie|[Java](./data_structures/trie/Trie.java)|
+|Segment Tree|[Java](./data_structures/segment_tree/SegmentTree.java)|
 
 ### Designs
 
