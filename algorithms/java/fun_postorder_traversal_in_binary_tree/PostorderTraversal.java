@@ -28,7 +28,7 @@ public class PostorderTraversal {
                     stack.pop();
                     res.add(cur.val);
                 }
-            } else if (prev == cur.right || prev == cur.left && cur.right == null) {
+            } else if (prev == cur.right || (prev == cur.left && cur.right == null)) {
                 stack.poll();
                 res.add(cur.val);
             } else { // go from left side to right side
