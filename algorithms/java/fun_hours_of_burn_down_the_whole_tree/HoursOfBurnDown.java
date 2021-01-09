@@ -13,17 +13,17 @@ class HoursOfBurnDown {
 		int left = calHours(root.left, start, max);
 		int right = calHours(root.right, start, max);
 		if (root == start) {
-			max[0] = Math.max(max[0], Math.max(left, right) + 1);
+			max[0] = Math.max(max[0], Math.max(left, right));
 			return -1;
 		}
 		if (left >= 0 && right >= 0) {
 			return Math.max(left, right) + 1;
 		} else if (left < 0) {
-			max[0] = Math.max(max[0], right - left);
+			max[0] = Math.max(max[0], right - left + 1);
 			return left - 1;
 		} else {
 			// right < 0
-			max[0] = Math.max(max[0], left - right);
+			max[0] = Math.max(max[0], left - right + 1);
 			return right - 1;
 		}
 	}
