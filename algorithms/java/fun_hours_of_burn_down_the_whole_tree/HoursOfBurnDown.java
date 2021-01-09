@@ -21,7 +21,8 @@ class HoursOfBurnDown {
 		} else if (left < 0) {
 			max[0] = Math.max(max[0], right - left);
 			return left - 1;
-		} else if (right < 0) {
+		} else {
+			// right < 0
 			max[0] = Math.max(max[0], left - right);
 			return right - 1;
 		}
