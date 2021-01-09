@@ -8,7 +8,7 @@ public class Postorder {
         private int preIndex = 0;
         private void getPostorder(int[] preorder, int nextInorderValue, List<Integer> res) {
             if (preIndex == preorder.length || preorder[preIndex] == nextInorderValue) {
-                return null;
+                return;
             }
             int root = preorder[preIndex++];
             getPostorder(preorder, root, res);
