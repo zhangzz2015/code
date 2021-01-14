@@ -38,7 +38,34 @@ public class VerticalOrder {
         return res;
     }
 
-    // 2. DFS
+    public List<List<Integer>> bfs2(TreeNode root) {
+        List<List<Integer>> res = new ArrayList<>();
+        if (root == null) {
+            return res;
+        }
+        Map<Integer, ArrayList<Integer>> map = new HashMap<>();
+        Queue<Element> queue = new ArrayDeque<>();
+        queue.offer(new Element(root, 0));
+        int min = 0;
+        while (!queue.isEmpty()) {
+            Element cur = queue.poll();
+            min = Math.min(min, cur.col);
+            map.putIfAbsent(cur.col, new ArrayList<>());
+            map.get(cur.col).add(cur.node.val);
+            if (cur.node.left != null) {
+                queue.offer(new Element(cur.node.left, cur.col - 1));
+            }
+            if (cur.node.right != null) {
+                queue.offer(new Element(cur.node.right, cur.col + 1));
+            }
+        }
+        while (map.get(min) != null) {
+            res.add(map.get(min++));
+        }
+        return res;
+    }
+
+    // 3. DFS
     private int minCol = 0;
     public List<List<Integer>> dfs(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
