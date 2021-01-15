@@ -76,7 +76,8 @@ public class TopView {
         return new ArrayList<>(top);
     }
 
-    // bottom view
+    // bottom view bfs
+	// if there are nodes in the same row and column, return rightmost
     public List<Integer> bottomView(TreeNode root) {
         if (root == null) return new ArrayList<>();
         Map<Integer, Integer> map = new HashMap<>();
@@ -105,4 +106,26 @@ public class TopView {
         }
         return res;
     }
+	
+	// bottom view dfs
+	// if there are nodes in the same row and column, return leftmost
+	private int small = 0;
+	private int large = 0;
+	pubic List<TreeNode> bottomView1(TreeNode root) {
+		Map<Integer, TreeNode> map = new HashMap<>();
+		dfs(map, root, 0);
+		List<TreeNode> res = new ArrayList<>();
+		for (int i = small; i <= large; i++) {
+			res.add(map.get(i));
+		}
+		return res;
+	}
+	private void dfs(Map<Integer, TreeNode> map, TreeNode root, int col) {
+		if (root == null) return;
+		dfs(map, root.left, col - 1);
+		dfs(map, root.right, col + 1);
+		map.putIfAbsent(col, root);
+		small = Math.min(small, col);
+		large = Math.max(large, col);
+	}
 }
