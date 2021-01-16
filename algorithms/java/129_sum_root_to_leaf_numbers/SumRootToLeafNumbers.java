@@ -34,7 +34,7 @@ public class SumRootToLeafNumbers {
         if (root.right != null) sum2(cur.right, curPathSum, total);
     }
 
-    // using return value
+    // using recursion
     public int sumNumbers3(TreeNode root) {
         return sum3(root, 0);
     }
