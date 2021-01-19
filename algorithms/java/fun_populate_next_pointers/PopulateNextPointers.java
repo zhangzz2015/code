@@ -13,22 +13,18 @@ public class PopulateNextPointers {
         Node prevNode = null;
         while (curNode != null) {
             for (Node child : curNode.children) {
-                if (prevNode == null) {
-                    prevNode = child;
-                } else {
-                    prevNode.next = child;
-                    prevNode = prevNode.next;
-                }
-                if (nextLevelHead == null) {
-                    nextLevelHead = child;
-                }
-            }
-            curNode = curNode.next;
-            if (curNode == null) {
-                curNode = nextLevelHead;
-                nextLevelHead = null;
-                prevNode = null;
-            }
+				if (prev != null) prev.next = children;
+				prev = child;
+				if (nextLevelHead == null) {
+					nextLevelHead = child;
+				}
+			}
+			curNode = curNode.next;
+			if (curNode == null) {
+				curNode = nextLevelHead;
+				nextLevelHead = null;
+				prevNode = null;
+			}
         }
     }
 }
