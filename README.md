@@ -22,6 +22,7 @@ Code
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./algorithms/java/39_combination_sum/CombinationSum.java)|[medium](./algorithms/java/39_combination_sum/README.md)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](./algorithms/java/40_combination_sum_2/CombinationSum.java)|[medium](./algorithms/java/40_combination_sum_2/README.md)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./algorithms/java/45_jump_game_2/JumpGame.java)|[hard](./algorithms/java/45_jump_game_2/README.md)|
+|46|[Permutation](https://leetcode.com/problems/permutations/)|[Java](./algorithms/java/46_permutations/Permutation.java)|[medium](./algorithms/java/46_permutations/README.md)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./algorithms/cpp/48_rotate_image/RotateImage.cpp)|[medium](./algorithms/cpp/48_rotate_image/README.md)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](algorithms/cpp/49_group_anagrams/GroupAnagrams.cpp), [Java](./algorithms/java/49_group_anagrams/GroupAnagrams.java)|[medium](./algorithms/cpp/49_group_anagrams/README.md)|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./algorithms/java/51_n-queens/NQueens.java)|[hard](./algorithms/java/51_n-queens/README.md)|
