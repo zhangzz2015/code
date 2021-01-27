@@ -132,6 +132,7 @@ Code
 |1229|[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)|[Java](./algorithms/java/1229_meeting_scheduler/MeetingScheduler.java)|[medium](./algorithms/java/1229_meeting_scheduler/README.md)|
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Java](./algorithms/java/1306_jump_game_3/JumpGame.java)|[medium](./algorithms/java/1306_jump_game_3/README.md)|
 |1602|[Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/)|[Java](./algorithms/java/1602_find_nearest_right_node_in_binary_tree/FindNearestRightNode.java)|[medium](./algorithms/java/1602_find_nearest_right_node_in_binary_tree/README.md)|
+|1727|[Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|[C++](./algorithms/cpp/1727_largest_submatrix_with_rearrangements/LargestSubMatrix.cpp)|[medium](./algorithms/cpp/1727_largest_submatrix_with_rearrangements/README.md)|
 
 ### Fun Problems
 
