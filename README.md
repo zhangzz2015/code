@@ -105,6 +105,7 @@ Code
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./algorithms/java/438_find_all_anagrams_in_a_string/FindAllAnagrams.java)|[medium](./algorithms/java/438_find_all_anagrams_in_a_string/README.md)|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Java](./algorithms/java/445_add_two_numbers_2/AddTwoNumbers.java)|[medium](./algorithms/java/445_add_two_numbers_2/README.md)|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Java](./algorithms/java/450_delete_node_in_BST/DeleteNode.java)|[medium](./algorithms/java/450_delete_node_in_BST/README.md)|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|[C++](./algorithms/cpp/494_target_sum/TargetSum.cpp)|[medium](./algorithms/cpp/494_target_sum/README.md)|
 |510|[Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|[Java](./algorithms/java/510_inorder_successor_in_bst_2/Successor.java)|[medium](./algorithms/java/510_inorder_successor_in_bst_2/README.md)|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Java](./algorithms/java/518_coin_change_2/CoinChange2.java)|[medium](./algorithms/java/518_coin_change_2/README.md)|
 |540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java](./algorithms/java/540_single_element_in_a_sorted_array/SingleNonDuplicate.java)|[medium](./algorithms/java/540_single_element_in_a_sorted_array/README.md)|
