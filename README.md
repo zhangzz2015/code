@@ -115,7 +115,7 @@ Code
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Java](./algorithms/java/617_merge_two_binary_trees/Merge.java)|[easy](./algorithms/java/617_merge_two_binary_trees/README.md)|
 |632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)|[Java](./algorithms/java/632_smallest_range_covering_elements_from_k_lists/SmallestRange.java)|[hard](./algorithms/java/632_smallest_range_covering_elements_from_k_lists/README.md)|
 |640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/)|[Java](./algorithms/java/640_solve_the_equation/SolveEquation.java)|[medium](./algorithms/java/640_solve_the_equation/README.md)|
-|#653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Java](./algorithms/java/653_two_sum_4/TwoSum.java)|[easy](./algorithms/java/653_two_sum_4/README.md)|
+|*653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Java](./algorithms/java/653_two_sum_4/TwoSum.java)|[easy](./algorithms/java/653_two_sum_4/README.md)|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Java](./algorithms/java/658_find_k_closest_elements/FindClosest.java)|[medium](./algorithms/java/658_find_k_closest_elements/READMD.md)|
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)|[Java](./algorithms/java/668_kth_smallest_number_in_multiplication_table/FindKthNumber.java)|[hard](./algorithms/java/668_kth_smallest_number_in_multiplication_table/README.md)|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java](./algorithms/java/695_max_area_of_island/MaxArea.java)|[medium](./algorithms/java/695_max_area_of_island/README.md)|
@@ -259,4 +259,4 @@ Code
 |[Browser History](./designs/browser_history/README.md)|[Java](./designs/browser_history/BrowserHistory.java)|
 |[Design Add Remove Find Random APIs in O(1) time](./designs/design_add_remove_find_random_in_o1/README.md)|[Java](./designs/design_add_remove_find_random_in_o1/NewDataStructure.java)|
 
-\# means that problem helps me get a intern or job!
+\* means that problem helps me get a intern or job!
