@@ -37,7 +37,7 @@ class WordBreak {
 		}
 		List<String> allPaths = new ArrayList<>();
 		if (index == 0) {
-			allPath.add("");
+			allPaths.add("");
 			return allPaths;
 		}
 		for (int i = index; i >= 0; i--) {
@@ -54,6 +54,6 @@ class WordBreak {
 			}
 		}
 		memo.put(index, allPaths);
-		return allPath;
+		return allPaths;
 	}
 }
