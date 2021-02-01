@@ -31,7 +31,7 @@ class WordBreak {
 		Map<Integer, List<String>> memo = new HashMap<>();
 		return recursion(s, s.length(), set, memo);
 	}
-	private List<String> rescursion(String s, int index, Set<String> set, Map<Integer, List<String>> memo) {
+	private List<String> rescursion(String s, int index, Set<String> wordSet, Map<Integer, List<String>> memo) {
 		if (memo.containsKey(index)) {
 			return memo.get(index);
 		}
