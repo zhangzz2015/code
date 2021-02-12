@@ -195,6 +195,7 @@ Code
 |tree|[Retain Nodes in Range for BST](./algorithms/java/fun_retain_nodes_in_range_for_bst/README.md)|[Java](./algorithms/java/fun_retain_nodes_in_range_for_bst/RetainNodesInRange.java)|
 |tree|[Collect Leaf and Remove](./algorithms/java/fun_collect_leaf_and_remove/README.md)|[Java](./algorithms/java/fun_collect_leaf_and_remove/CollectLeaves.java )|
 |tree|[Determine Perfect Tree](./algorithms/java/fun_determine_perfect_tree/README.md)|[Java](./algorithms/java/fun_determine_perfect_tree/PerfectTree.java)|
+|tree|[Check Full Tree](./algorithms/java/fun_check_is_full_tree/README.md)|[Java](./algorithms/java/fun_check_is_full_tree/CheckFull.java)|
 |tree|[Lowest Common Ancestor May Not Exist](./algorithms/java/fun_lowest_common_ancestor_may_not_exist/README.md)|[Java](./algorithms/java/fun_lowest_common_ancestor_may_not_exist/LCA.java)|
 |tree|[Lowest Common Ancestor With Parent Pointer](./algorithms/java/fun_lowest_common_ancestor_with_parent_pointer/README.md)|[Java](./algorithms/java/fun_lowest_common_ancestor_with_parent_pointer/LCA.java)|
 |tree|[K Nodes Lowest Common Ancestor](./algorithms/java/fun_k_nodes_lowest_common_ancestor/README.md)|[Java](./algorithms/java/fun_k_nodes_lowest_common_ancestor/LCA.java)|
