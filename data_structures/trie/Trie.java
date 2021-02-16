@@ -109,10 +109,10 @@ class Trie {
 		List<String> res = new ArrayList<>();
 		TrieNode cur = root;
 		for (char c : prefix.toCharArray()) {
-			if (cur.children.get(c - 'a') == null) {
+			if (cur.children.get(c) == null) {
 				return res;
 			}
-			cur = cur.get(c - 'a');
+			cur = cur.get(c);
 		}
 		res.addAll(cur.startsWith);
 		return res;
