@@ -83,6 +83,7 @@ Code
 |252|[Meeting Room](https://leetcode.com/problems/meeting-rooms/)|[Java](./algorithms/java/252_meeting_room/MeetingRoom.java)|[easy](./algorithms/java/252_meeting_room/README.md)|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Java](./algorithms/java/253_meeting_rooms_2/MeetingRoom.java)|[medium](./algorithms/java/253_meeting_rooms_2/README.md)|
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|[Java](./algorithms/java/255_verify_preorder_sequence_in_binary_search_tree/Check.java)|[medium](./algorithms/java/255_verify_preorder_sequence_in_binary_search_tree/README.md)|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Java](./algorithms/java/261_graph_valid_tree/ValidTree.java)|[medium](./algorithms/java/261_graph_valid_tree/README.md)|
 |267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/)|[C++](./algorithms/cpp/267_palindrome_permutation_2/GeneratePalindrome.cpp)|[medium](./algorithms/cpp/267_palindrome_permutation_2/README.md)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./algorithms/java/268_missing_number/MissingNumber.java)|[easy](./algorithms/java/268_missing_number/README.md)|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Java](./algorithms/java/269_alien_dictionary/AlienDic.java)|[hard](./algorithms/java/269_alien_dictionary/README.md)|
