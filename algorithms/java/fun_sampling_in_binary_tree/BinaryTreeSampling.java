@@ -1,6 +1,6 @@
 public class BinaryTreeSampling {
     
-    // 2. iterator
+    // iterator
     public TreeNode sample1(TreeIterator iter) {
         TreeNode cur = null;
         int num = 0;
