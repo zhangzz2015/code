@@ -88,6 +88,7 @@ Code
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./algorithms/java/268_missing_number/MissingNumber.java)|[easy](./algorithms/java/268_missing_number/README.md)|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Java](./algorithms/java/269_alien_dictionary/AlienDic.java)|[hard](./algorithms/java/269_alien_dictionary/README.md)|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Java](./algorithms/java/270_closest_binary_search_tree_value/ClosestValue.java)|[medium](./algorithms/java/270_closest_binary_search_tree_value/README.md)|
+|271|[Encode and Decode Strings](./https://leetcode.com/problems/encode-and-decode-strings/)|[Java](./algorithms/java/271_encode_and_decode_strings/EncodeDecode.java)|[medium](./algorithms/java/271_encode_and_decode_strings/README.md)|
 |272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)|[Java](./algorithms/java/272_closest_binary_search_tree_value_2/ClosestBinarySearchTree.java)|[medium](./algorithms/java/272_closest_binary_search_tree_value_2/README.md)|
 |274|[H Index](https://leetcode.com/problems/h-index/)|[Java](./algorithms/java/274_h_index/HIndex.java)|[medium](./algorithms/java/274_h_index/README.md)|
 |275|[H Index II](https://leetcode.com/problems/h-index-ii/)|[Java](./algorithms/java/275_h_index_2/HIndex.java)|[medium](./algorithms/java/275_h_index_2/README.md)|
