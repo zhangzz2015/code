@@ -223,6 +223,7 @@ Code
 |construct tree|[Construct Binary Tree with Special Signal](./algorithms/java/fun_construct_binary_tree_with_special_signal/README.md)|[Java](./algorithms/java/fun_construct_binary_tree_with_special_signal/Construct.java)|
 |construct tree|[Construct N-ary Tree with Preorder and Postorder](./algorithms/java/fun_construct_nary_tree_with_preorder_and_postorder/README.md)|[Java](./algorithms/java/fun_construct_nary_tree_with_preorder_and_postorder/Construct.java)|
 |construct tree|[Construct N-ary Tree with Parent Id Node](./algorithms/java/fun_construct_nary_tree_with_parent_id_node/README.md)|[Java](./algorithms/java/fun_construct_nary_tree_with_parent_id_node/Construct.java)|
+|hybrid data structure|[Top K Frequency Problem](./algorithms/java/fun_top_k_frequent/README.md)|[Java](./algorithms/java/fun_top_k_frequent/TopK.java)|
 |hybrid data structure|[K-diff Sorted Array](./algorithms/java/fun_k_diff_sorted_array/README.md)|[Java](./algorithms/java/fun_k_diff_sorted_array/KDiff.java)|
 |hybrid data structure|[Most Recent k URLs](./algorithms/java/fun_most_recent_k_urls/README.md)|[Java](./algorithms/java/fun_most_recent_k_urls/MostRecentKUrls.java)|
 |backtracking|[All Combinations Sum to Target with Size k](./algorithms/java/fun_all_combination_sum_to_target_with_size_k/README.md)|[Java](./algorithms/java/fun_all_combination_sum_to_target_with_size_k/Combinations.java)|
