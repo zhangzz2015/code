@@ -5,10 +5,10 @@ Code
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./algorithms/cpp/1_two_sum/TwoSum.cpp) , [Java](./algorithms/java/1_two_sum/TwoSum.java)|[easy](./algorithms/java/1_two_sum/README.md)|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./algorithms/cpp/2_add_two_numbers/AddTwoNumbers.cpp) , [Java](./algorithms/java/2_add_two_numbers/AddTwoNumbers.java)|[medium](./algorithms/java/2_add_two_numbers/README.md)|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./algorithms/cpp/1_two_sum/TwoSum.cpp) [Java](./algorithms/java/1_two_sum/TwoSum.java)|[easy](./algorithms/java/1_two_sum/README.md)|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./algorithms/cpp/2_add_two_numbers/AddTwoNumbers.cpp) [Java](./algorithms/java/2_add_two_numbers/AddTwoNumbers.java)|[medium](./algorithms/java/2_add_two_numbers/README.md)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./algorithms/java/3_longest_substring_without_repeating_characters/Longest.java)|[medium](./algorithms/java/3_longest_substring_without_repeating_characters/README.md)|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./algorithms/cpp/4_median_of_two_sorted_arrays/Median.cpp) , [Java](./algorithms/java/4_median_of_two_sorted_arrays/Median.java)|[hard](./algorithms/java/4_median_of_two_sorted_arrays/README.md)|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./algorithms/cpp/4_median_of_two_sorted_arrays/Median.cpp) [Java](./algorithms/java/4_median_of_two_sorted_arrays/Median.java)|[hard](./algorithms/java/4_median_of_two_sorted_arrays/README.md)|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java](./algorithms/java/5_longest_palindromic_substring/LongestPalindrome.java)|[medium](./algorithms/java/5_longest_palindromic_substring/README.md)|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./algorithms/java/8_string_to_integer/Atoi.java)|[medium](./algorithms/java/8_string_to_integer/README.md)|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](./algorithms/java/10_regular_expression_matching/Match.java)|[hard](./algorithms/java/10_regular_expression_matching/README.md)|
@@ -27,7 +27,7 @@ Code
 |46|[Permutation](https://leetcode.com/problems/permutations/)|[Java](./algorithms/java/46_permutations/Permutation.java)|[medium](./algorithms/java/46_permutations/README.md)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](./algorithms/java/47_permutation_2/Permutation.java)|[medium](./algorithms/java/47_permutation_2/README.md)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./algorithms/cpp/48_rotate_image/RotateImage.cpp)|[medium](./algorithms/cpp/48_rotate_image/README.md)|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](algorithms/cpp/49_group_anagrams/GroupAnagrams.cpp), [Java](./algorithms/java/49_group_anagrams/GroupAnagrams.java)|[medium](./algorithms/cpp/49_group_anagrams/README.md)|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](algorithms/cpp/49_group_anagrams/GroupAnagrams.cpp) [Java](./algorithms/java/49_group_anagrams/GroupAnagrams.java)|[medium](./algorithms/cpp/49_group_anagrams/README.md)|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./algorithms/java/51_n-queens/NQueens.java)|[hard](./algorithms/java/51_n-queens/README.md)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/java/53_maximum_subarray/MaxSubarray.java)|[easy](./algorithms/java/53_maximum_subarray/README.md)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/java/55_jump_game/JumpGame.java)|[medium](./algorithms/java/55_jump_game/README.md)|
@@ -107,7 +107,7 @@ Code
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Java](./algorithms/java/340_longest_substring_with_at_most_k_distinct_characters/Longest.java)|[hard](./algorithms/java/340_longest_substring_with_at_most_k_distinct_characters/README.md)|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./algorithms/java/347_top_k_frequent_elements/TopK.java)|[medium](./algorithms/java/347_top_k_frequent_elements/README.md)|
 |360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)|[Java](./algorithms/java/360_sort_transformed_array/SortTransformed.java)|[medium](./algorithms/java/360_sort_transformed_array/README.md)|
-|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](./algorithms/cpp/377_combination_sum_4/CombinationSum.cpp), [Java](./algorithms/java/377_combination_sum_4/CombinationSum.java)|[medium](./algorithms/java/377_combination_sum_4/README.md)|
+|377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](./algorithms/cpp/377_combination_sum_4/CombinationSum.cpp) [Java](./algorithms/java/377_combination_sum_4/CombinationSum.java)|[medium](./algorithms/java/377_combination_sum_4/README.md)|
 |428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)|[Java](./algorithms/java/428_serialize_and_deserialize_nary_tree/SerDeser.java)|[hard](./algorithms/java/428_serialize_and_deserialize_nary_tree/README.md)|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./algorithms/java/437_path_sum_3/PathSum.java)|[medium](./algorithms/java/437_path_sum_3/README.md)|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./algorithms/java/438_find_all_anagrams_in_a_string/FindAllAnagrams.java)|[medium](./algorithms/java/438_find_all_anagrams_in_a_string/README.md)|
