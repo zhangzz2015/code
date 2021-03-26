@@ -31,4 +31,4 @@ private:
 			return findKth(a, aLeft, b, bMid + 1, k - k / 2);
 		}
 	}
-}
+};
