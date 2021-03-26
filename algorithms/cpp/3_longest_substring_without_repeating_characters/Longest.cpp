@@ -35,4 +35,4 @@ public:
 		}
 		return max((int)s.size() - start, max_len);
 	}
-}
+};
