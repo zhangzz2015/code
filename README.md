@@ -181,6 +181,7 @@ Code
 |string|[Subtract String](./algorithms/java/fun_subtract_string/README.md)|[Java](./algorithms/java/fun_subtract_string/SubtractString.java)|
 |linked list|[Reverse a Doubly Linked List](./algorithms/java/fun_reverse_doubly_linked_list/README.md)|[Java](./algorithms/java/fun_reverse_doubly_linked_list/ReverseDoublyLinkedList.java)|
 |linked list|[Find Middle Node of Linked List](./algorithms/java/fun_find_middle_node/README.md)|[Java](./algorithms/java/fun_find_middle_node/FindMid.java)|
+|linked list|[Merged Lists](./algorithms/java/fun_merged_lists/README.md)|[C++](./algorithms/cpp/fun_merged_lists/MergedLists.cpp) [Java](./algorithms/java/fun_merged_lists/MergedLists.java)|
 |tree|[Inorder Traversal in Binary Tree](./algorithms/java/fun_inorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_inorder_traversal_in_binary_tree/InorderTraversal.java)|
 |tree|[Preorder Traversal in Binary Tree](./algorithms/java/fun_preorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_preorder_traversal_in_binary_tree/PreorderTraversal.java)|
 |tree|[Postorder Traversal in Binary Tree](./algorithms/java/fun_postorder_traversal_in_binary_tree/README.md)|[Java](./algorithms/java/fun_postorder_traversal_in_binary_tree/PostorderTraversal.java)|
