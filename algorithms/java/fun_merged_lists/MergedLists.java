@@ -31,7 +31,7 @@ class MergedLists {
 				return slow;
 			}
 		}
-		return fast.next == null ? fast.next : fast.next.next;
+		return fast.next == null ? fast : fast.next;
 	}
 	private boolean isSameCycle(ListNode a, ListNode b) {
 		ListNode cur = a.next;
