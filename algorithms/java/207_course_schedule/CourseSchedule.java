@@ -22,6 +22,7 @@ class CourseSchedule {
 				return false;
 			}
 		}
+		visiting[node] = false;
 		visited[node] = true;
 		return true;
 	}
