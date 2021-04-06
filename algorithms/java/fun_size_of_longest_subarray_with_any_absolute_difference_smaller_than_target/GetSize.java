@@ -11,7 +11,7 @@ class GetSize {
 			if (count != null) {
 				window.put(array[j], count + 1);
 			} else {
-			window.put(array[j], 1);
+				window.put(array[j], 1);
 			}
 			while (i < j && window.lastKey() - window.firstKey() > limit) {
 				count = window.get(array[i]);
