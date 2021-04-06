@@ -1,7 +1,7 @@
 ## sliding window
 We want to find all the substrings of length k with no repeating characters.<br>
 for each of the index j as the end index of the substring:<br>
-we want to find the leftmost i making the substring with no repeating characters, and check if the size if larger or equal to k.<br>
+we want to find the leftmost i making the substring with no repeating characters, and check if the size is larger or equal to k.<br>
 
 Because we want to know whether there are duplicates, we can use a hashset to record the non repeating characters before the index j.<br>
 - we can first move the i right when there are still duplicate element with the character at index j.
