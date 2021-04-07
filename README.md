@@ -230,6 +230,7 @@ Code
 |tree path|[Hours of Burn Down the Whole Tree](./algorithms/java/fun_hours_of_burn_down_the_whole_tree/README.md)|[Java](./algorithms/java/fun_hours_of_burn_down_the_whole_tree/HoursOfBurnDown.java)|
 |serialize tree|[Convert 3-ary Tree to Singly Link List](./algorithms/java/fun_convert_3ary_tree_to_singly_linked_list/README.md)|[Java](./algorithms/java/fun_convert_3ary_tree_to_singly_linked_list/Convert3aryTree.java)|
 |serialize tree|[Convert BST to Sorted Circular Doubly Linked List](./algorithms/java/fun_convert_bst_to_sorted_circular_doubly_linked_list/README.md)|[Java](./algorithms/java/fun_convert_bst_to_sorted_circular_doubly_linked_list/Convert.java)|
+|serialize tree|[Serialize and Deserialize String Type Tree](./algorithms/java/fun_ser_des_string_treenode/README.md)|[Java](./algorithms/java/fun_ser_des_string_treenode/SerDes.java)|
 |construct tree|[Given BST Preorder Return Postorder](./algorithms/java/fun_given_bst_preorder_return_postorder/README.md)|[Java](./algorithms/java/fun_given_bst_preorder_return_postorder/Postorder.java)|
 |construct tree|[Construct Binary Tree with Levelorder and Inorder](./algorithms/java/fun_construct_binary_tree_with_levelorder_and_inorder/README.md)|[Java](./algorithms/java/fun_construct_binary_tree_with_levelorder_and_inorder/Construct.java)|
 |construct tree|[Construct Binary Search Tree With Level Order](./algorithms/java/fun_construct_binary_search_tree_with_level_order/README.md)|[Java](./algorithms/java/fun_construct_binary_search_tree_with_level_order/Construct.java)|
