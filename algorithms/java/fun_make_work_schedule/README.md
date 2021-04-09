@@ -7,7 +7,7 @@ For each level i of the recursion, we are deciding whether we can use this i-th 
 In the recursion, we also need to do some pruning, every time we want to make a day as work day we need to check the last time of the break to know that if we excede the limit of working 5 days consecutively. And if we are using more than 30 days. Thus we need to pass down the information of the last break day.<br>
 
 
-	day0				[]
+	day0                []
 	                  /     \
 	day1             0       1
                     /  \    / \ 
