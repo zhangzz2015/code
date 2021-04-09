@@ -244,6 +244,7 @@ Code
 |hybrid data structure|[Most Recent k URLs](./algorithms/java/fun_most_recent_k_urls/README.md)|[Java](./algorithms/java/fun_most_recent_k_urls/MostRecentKUrls.java)|
 |backtracking|[All Combinations Sum to Target with Size k](./algorithms/java/fun_all_combination_sum_to_target_with_size_k/README.md)|[Java](./algorithms/java/fun_all_combination_sum_to_target_with_size_k/Combinations.java)|
 |backtracking|[Make Work Schedule](./algorithms/java/fun_make_work_schedule/README.md)|[Java](./algorithms/java/fun_make_work_schedule/WorkSchedule.java)|
+|backtracking|[Keep Distance for Number of Element](./algorithms/java/fun_keep_distance_for_number_of_element/README.md)|[Java](./algorithms/java/fun_keep_distance_for_number_of_element/KeepDistance.java)|
 |graph|[Basic DFS](./algorithms/java/fun_basic_dfs/README.md)|[Java](./algorithms/java/fun_basic_dfs/DFS.java)|
 |graph|[Basic BFS](./algorithms/java/fun_basic_bfs/README.md)|[Java](./algorithms/java/fun_basic_bfs/BFS.java)|
 |graph|[Deep Copy an Undirected Graph](./algorithms/java/fun_deep_copy_undirected_graph/README.md)|[Java](./algorithms/java/fun_deep_copy_undirected_graph/DeepCopy.java)|
