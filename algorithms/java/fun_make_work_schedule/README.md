@@ -8,7 +8,7 @@ In the recursion, we also need to do some pruning, every time we want to make a 
 
 
 	day0				[]
-				      /     \
+	                  /     \
 	day1             0       1
                     /  \    / \ 
 	day2           0    1  0   1
