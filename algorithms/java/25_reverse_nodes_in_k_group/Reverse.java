@@ -53,11 +53,11 @@ class Reverse {
 		}
 		cur = reverseK(cur, k);
 		while (count-- > 0) {
-			// cur is prev, tmp is next
-			ListNode tmp = head.next;
+			// cur is used as prev
+			ListNode next = head.next;
 			head.next = cur;
 			cur = head;
-			head = tmp;
+			head = next;
 		}
 	}
 }
