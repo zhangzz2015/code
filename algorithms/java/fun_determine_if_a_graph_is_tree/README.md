@@ -9,10 +9,21 @@ if the undirected graph is tree => 1, 2, 3<br>
 1, 3 => the undirected graph is tree => 2
 2, 3 => the undirected graph is tree => 1
 
+See [Graph Valid Tree](./../261_graph_valid_tree/README.md) 
+
 ## directed graph
 Cannot use the property above!!!<br>
-1. find the root, the only node has indgree of 0.
+1. find the root, the only node has indgree of 0, and check all other in-degree == 1:
 	- traverse the whole graph -> traverse each of the edges(u, v), for each edge v.indegree++;
 	- O(V + E)
-2. from the root, run a dfs/bfs, mark visited for the node when first time visiting. Traverse the graph to see if there is any node visited multiple times.
+
+2. Check all nodes can be reached from the only root
 	- O(V + E)
+
+time: O(|E| + |V|)<br>
+space: O(|V|)
+
+	After step 1 there is a counter example: one cycle and one tree
+	       1  <        4
+	    /      |     /   \ 
+	    > 2 -> 3    5     6
