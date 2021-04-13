@@ -70,7 +70,9 @@ public class PostorderTraversal {
         // cur.parent == null;
         if (cur.parent == null) return null;
         // cur == parent.right return parent
-        // cur == parent.left ...
+        // cur == parent.left
+		//		if parent.right == null return parent
+		//		else parent.right != null firstNode(parent.right)
         if (cur == cur.parent.left && cur.parent.right != null) return firstNode(cur.parent.right);
         return cur.parent;
     }
