@@ -26,14 +26,14 @@ public class TopView {
             for (int i = 0; i < size; i++) {
                 NodeWithColumn cur = queue.poll();
                 if (cur.node.left != null) {
-                    if (cur.column == smallest) {
+                    if (cur.column - 1 < smallest) {
                         top.offerFirst(cur.node.left.val);
                         smallest--;
                     }
                     queue.offer(new NodeWithColumn(cur.node.left, cur.column - 1));
                 }
                 if (cur.node.right != null) {
-                    if (cur.column == largest) {
+                    if (cur.column + 1 > largest) {
                         top.offerLast(cur.node.right.val);
                         largest++;
                     }
