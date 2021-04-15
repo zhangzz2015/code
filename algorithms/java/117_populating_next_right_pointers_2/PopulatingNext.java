@@ -6,6 +6,7 @@ public class PopulatingNext {
         public Node next;
     }
 
+	// BFS
     public Node connect(Node root) {
         if (root == null) return root;
         Node head = root;
@@ -37,4 +38,22 @@ public class PopulatingNext {
         }
         return root;
     }
+	
+	// DFS
+	public Node connect1(Node root) {
+		List<Node> tails = new ArrayList<>();
+		dfs(tails, root, 0);
+		return root;
+	}
+	private void dfs(List<Node> tails, Node root, int level) {
+		if (root == null) return;
+		if (tails.size() == level) {
+			tails.add(root);
+		} else {
+			tails.get(level).next = root;
+			tails.set(level, root);
+		}
+		dfs(tails, root.left, level + 1);
+		dfs(tails, root.right, level + 1);
+	}
 }
