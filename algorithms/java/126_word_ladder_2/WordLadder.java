@@ -8,7 +8,7 @@ class WordLadder {
 		Map<String, List<String>> prevMap = new HashMap<>();
 		int level = bfs(beginWord, endWord, wordSet, prevMap);
 		if (level == 0) return res;
-		List<String> path = new ArrayList<>();
+		List<String> path = new LinkedList<>();
 		dfs(endWord, prevMap, path, res);
 		return res;
 	}
@@ -66,7 +66,7 @@ class WordLadder {
 	}
 
 	private void dfs(String cur, Map<String, List<String>> prevMap, List<String> path, List<List<String>> res) {
-		path.add(cur);
+		path.add(0, cur);
 		if (prevMap.get(cur).isEmpty()) {
 			List<String> tmp = new ArrayList<>(path);
 			Collections.reverse(tmp);
@@ -76,6 +76,6 @@ class WordLadder {
 				dfs(s, prevMap, path, res);
 			}
 		}
-		path.remove(path.size() - 1);
+		path.remove(0);
 	}
 }
