@@ -14,7 +14,7 @@ public class SumofAllLeaf {
             if (cur.eldesChild == null) sum += cur.val
             cur = nextNode(cur);
         }
-        return res;
+        return sum;
     }
 
     private TreeNode firstNode(TreeNode root) {
