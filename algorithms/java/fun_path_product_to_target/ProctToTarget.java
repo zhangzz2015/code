@@ -11,7 +11,7 @@ public class ProctToTarget {
         booean notExist = false;
         double newProd = prevProd * root.val;
         // case 1: when target == 0, then we need to find if there is 0 in the tree
-        // case 2: target != 0 && root.val == 0, skip this 0 ans start a new state preix
+        // case 2: target != 0 && root.val == 0, skip this 0 ans start a new state prefix
         // case 3: target != 0 && root.val != 0, check prefixProds
         if (target == 0) {
             if (newProd == 0) return true;
