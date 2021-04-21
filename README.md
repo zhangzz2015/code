@@ -288,5 +288,3 @@ Code
 |[Browser History](./designs/browser_history/README.md)|[Java](./designs/browser_history/BrowserHistory.java)|
 |[Design Add Remove Find Random APIs in O(1) time](./designs/design_add_remove_find_random_in_o1/README.md)|[Java](./designs/design_add_remove_find_random_in_o1/NewDataStructure.java)|
 |[Auto Spell Correction](./designs/auto_spell_correction/README.md)|[Java](./designs/auto_spell_correction/SpellCorrection.java)|
-
-\* means that problem helps me get an intern or job!
