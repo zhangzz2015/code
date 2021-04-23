@@ -273,6 +273,7 @@ Code
 |--|--|
 |Queue|[Java](./data_structures/queue/Queue.java)|
 |Min Heap / PriorityQueue|[Java](./data_structures/min_heap/MinHeap.java)|
+|HashMap|[Java](./data_structures/hashmap/HashMap.java)|
 |Tree Inorder Iterator|[Java](./data_structures/tree_iterator/InorderIterator.java)|
 |Binary Search Tree Inorder Asc/Des Iterator|[Java](./data_structures/tree_iterator/AscDesInorderIterator.java)|
 |Tree Preorder Iterator|[Java](./data_structures/tree_iterator/PreorderIterator.java)|
