@@ -190,6 +190,7 @@ Code
 |string|[Decode Parenthesis String](./algorithms/java/fun_decode_parenthesis_string/README.md)|[Java](./algorithms/java/fun_decode_parenthesis_string/Decode.java)|
 |string|[Add String](./algorithms/java/fun_add_string/README.md)|[Java](./algorithms/java/fun_add_string/AddString.java)|
 |string|[Subtract String](./algorithms/java/fun_subtract_string/README.md)|[Java](./algorithms/java/fun_subtract_string/SubtractString.java)|
+|string|[Form Target String with Source String](./algorithms/java/fun_form_target_string_with_source_string/README.md)|[Java](./algorithms/java/fun_form_target_string_with_source_string/MinConcatenation.java)|
 |linked list|[Reverse a Doubly Linked List](./algorithms/java/fun_reverse_doubly_linked_list/README.md)|[Java](./algorithms/java/fun_reverse_doubly_linked_list/ReverseDoublyLinkedList.java)|
 |linked list|[Find Middle Node of Linked List](./algorithms/java/fun_find_middle_node/README.md)|[Java](./algorithms/java/fun_find_middle_node/FindMid.java)|
 |linked list|[Merged Lists](./algorithms/java/fun_merged_lists/README.md)|[C++](./algorithms/cpp/fun_merged_lists/MergedLists.cpp) [Java](./algorithms/java/fun_merged_lists/MergedLists.java)|
