@@ -15,7 +15,7 @@ Code
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[C++](./algorithms/cpp/8_string_to_integer/Atoi.cpp) [Java](./algorithms/java/8_string_to_integer/Atoi.java)|[medium](./algorithms/java/8_string_to_integer/README.md)|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](./algorithms/java/10_regular_expression_matching/Match.java)|[hard](./algorithms/java/10_regular_expression_matching/README.md)|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[C++](./algorithms/cpp/15_3sum/ThreeSum.cpp) [Java](./algorithms/java/15_3sum/ThreeSum.java)|[medium](./algorithms/java/15_3sum/README.md)|
-|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./algorithms/java/16_3sum_closest/3SumClosest.java)|[medium](./algorithms/java/16_3sum_closest/README.md)|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[C++](./algorithms/cpp/16_3sum_closest/ThreeSumClosest.cc) [Java](./algorithms/java/16_3sum_closest/3SumClosest.java)|[medium](./algorithms/java/16_3sum_closest/README.md)|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./algorithms/java/22_generate_parentheses/Generate.java)|[medium](./algorithms/java/22_generate_parentheses/README.md)|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](./algorithms/java/23_merge_k_sorted_lists/MergeK.java)|[hard](./algorithms/java/23_merge_k_sorted_lists/README.md)|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](./algorithms/java/24_swap_nodes_in_pairs/SwapNodes.java)|[medium](./algorithms/java/24_swap_nodes_in_pairs/README.md)|
