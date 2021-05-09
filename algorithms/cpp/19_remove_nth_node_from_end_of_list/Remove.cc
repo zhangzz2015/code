@@ -19,7 +19,9 @@ public:
 			fast = fast->next;
 			cur = cur->next;
 		}
+		ListNode *to_delete = cur->next;
 		cur->next = cur->next->next;
+		delete to_delete;
 		return dummy.next;
 	}
 };
