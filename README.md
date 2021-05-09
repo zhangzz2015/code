@@ -22,7 +22,7 @@ Code
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./algorithms/cpp/20_valid_parentheses/ValidParentheses.cc)|[easy](./algorithms/cpp/20_valid_parentheses/README.md)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./algorithms/cpp/21_merge_two_sorted_lists/Merge.cc)|[easy](./algorithms/cpp/21_merge_two_sorted_lists/README.md)|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./algorithms/cpp/22_generate_parentheses/Generate.cc) [Java](./algorithms/java/22_generate_parentheses/Generate.java)|[medium](./algorithms/java/22_generate_parentheses/README.md)|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](./algorithms/java/23_merge_k_sorted_lists/MergeK.java)|[hard](./algorithms/java/23_merge_k_sorted_lists/README.md)|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[C++](./algorithms/cpp/23_merge_k_sorted_lists/Merge.cc) [Java](./algorithms/java/23_merge_k_sorted_lists/MergeK.java)|[hard](./algorithms/java/23_merge_k_sorted_lists/README.md)|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](./algorithms/java/24_swap_nodes_in_pairs/SwapNodes.java)|[medium](./algorithms/java/24_swap_nodes_in_pairs/README.md)|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Java](./algorithms/java/25_reverse_nodes_in_k_group/Reverse.java)|[hard](./algorithms/java/25_reverse_nodes_in_k_group/README.md)|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](./algorithms/java/29_divide_two_integers/Divide.java)|[medium](./algorithms/java/29_divide_two_integers/README.md)|
