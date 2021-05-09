@@ -20,6 +20,7 @@ Code
 |18|[4Sum](https://leetcode.com/problems/4sum/)|[C++](./algorithms/cpp/18_4sum/FourSum.cc)|[medium](./algorithms/cpp/18_4sum/README.md)|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C++](./algorithms/cpp/19_remove_nth_node_from_end_of_list/Remove.cc)|[medium](./algorithms/cpp/19_remove_nth_node_from_end_of_list/READM.md)|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./algorithms/cpp/20_valid_parentheses/ValidParentheses.cc)|[easy](./algorithms/cpp/20_valid_parentheses/README.md)|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./algorithms/cpp/21_merge_two_sorted_lists/Merge.cc)|[easy](./algorithms/cpp/21_merge_two_sorted_lists/README.md)|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./algorithms/java/22_generate_parentheses/Generate.java)|[medium](./algorithms/java/22_generate_parentheses/README.md)|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](./algorithms/java/23_merge_k_sorted_lists/MergeK.java)|[hard](./algorithms/java/23_merge_k_sorted_lists/README.md)|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](./algorithms/java/24_swap_nodes_in_pairs/SwapNodes.java)|[medium](./algorithms/java/24_swap_nodes_in_pairs/README.md)|
