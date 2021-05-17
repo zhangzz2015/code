@@ -6,21 +6,23 @@ public class SelectionSort {
         if (array == null || array.length <= 1) {
             return array;
         }
-        int len = array.length;
-		for (int i = 1; i < len; i++) {
-			int cur = array[i];
-			int j = i - 1
-			for (; j >= 0; j--) {
-				if (array[j] > cur) {
-					array[j + 1] = array[j];
-				} else {
-					break;
-				}
-			}
-			array[j + 1] = cur;
-		}
+        for (int i = 0; i < array.length - 1; i++) {
+            int min = i;
+            for (int j = i + 1; j < array.length; j++) {
+                if (array[j] < array[min]) {
+                    min = j;
+                }
+            }
+            swap(array, i, min);
+        }
     }
-	
+
+    private void swap(int[] array, int left, int right) {
+        int tmp = array[left];
+        array[left] = array[right];
+        array[right] = tmp;
+    }
+
     public static void main(String[] args) {
         SelectionSort selectionSort = new SelectionSort();
         int[] array = null;
