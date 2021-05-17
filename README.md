@@ -175,6 +175,7 @@ Code
 |sampling|[Sampling in Binary Tree](./algorithms/java/fun_sampling_in_binary_tree/README.md)|[Java](./algorithms/java/fun_sampling_in_binary_tree/BinaryTreeSampling.java)|
 |sorting|[Selection Sort](./algorithms/java/fun_selection_sort/README.md)|[Java](./algorithms/java/fun_selection_sort/SelectionSort.java)|
 |sorting|[Bubble Sort](./algorithms/java/fun_bubble_sort/README.md)|[Java](./algorithms/java/fun_bubble_sort/BubbleSort.java)|
+|sorting|[Insertion Sort](./algorithms/java/fun_insertion_sort/README.md)|[Java](./algorithms/java/fun_insertion_sort/InsertionSort.java)|
 |sorting|[Heap Sort](./algorithms/java/fun_heap_sort/README.md)|[Java](./algorithms/java/fun_heap_sort/HeapSort.java)|
 |sorting|[Merge Sort](./algorithms/java/fun_merge_sort/REAEDME.md)|[Java](./algorithms/java/fun_merge_sort/MergeSort.java)|
 |sorting|[Quick Sort](./algorithms/java/fun_quick_sort/README.md)|[Java](./algorithms/java/fun_quick_sort/QuickSort.java)|
