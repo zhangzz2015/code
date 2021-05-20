@@ -34,6 +34,7 @@ private:
                 left = mid;
             }
         }
+		// garuanteed to exist the smallest larger than the target
         return nums[right] > target ? right : left;
     }
 };
