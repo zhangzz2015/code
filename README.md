@@ -274,6 +274,7 @@ Code
 |topological order|[Topological Order](./algorithms/java/fun_topological_order/README.md)|[Java](./algorithms/java/fun_topological_order/TopoOrder.java)|
 |topological order|[Get All Topological Order](./algorithms/java/fun_get_all_topological_order/README.md)|[Java](./algorithms/java/fun_get_all_topological_order/AllTopo.java)|
 |topological order|[Compile Source File](./algorithms/java/fun_compile_source_file/README.md)|[Java](./algorithms/java/fun_compile_source_file/FilesCompileOrder.java)|
+|dp|[Return Maximum Subarray](./algorithms/cpp/fun_return_maximum_subarray/README.md)|[C++](./algorithms/cpp/fun_return_maximum_subarray/MaxSubarray.cpp)|
 |dp|[Split Words](./algorithms/java/fun_split_words/README.md)|[Java](./algorithms/java/fun_split_words/SplitWords.java)|
 |dp|[Largest Square Sum](./algorithms/java/fun_largest_square_sum/README.md)|[Java](./algorithms/java/fun_largest_square_sum/LargestSquareSum.java)|
 |dp|[Max weight Sum](./algorithms/java/fun_max_weight_sum/README.md)|[Java](./algorithms/java/fun_max_weight_sum/MaxWeightSum.java)|
