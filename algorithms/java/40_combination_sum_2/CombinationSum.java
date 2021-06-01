@@ -6,7 +6,7 @@ class CombinationSum {
         comb1(candidates, target, res, new ArrayList<>(), 0);
         return res;
     }
-    private void dfs(int[] candidates, int target, List<List<Integer>> res, List<Integer> cur, int index) {
+    private void comb1(int[] candidates, int target, List<List<Integer>> res, List<Integer> cur, int index) {
         if (target == 0) {
             res.add(new ArrayList<>(cur));
             return;
@@ -30,7 +30,7 @@ class CombinationSum {
         comb2(candidates, target, res, new ArrayList<>(), 0);
         return res;
     }
-    private void dfs(int[] candidates, int target, List<List<Integer>> res, List<Integer> cur, int index) {
+    private void comb2(int[] candidates, int target, List<List<Integer>> res, List<Integer> cur, int index) {
         if (target == 0) {
             res.add(new ArrayList<>(cur));
             return;
