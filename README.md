@@ -35,6 +35,7 @@ Code
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](./algorithms/java/37_soduku_solver/SudokuSolver.java)|[hard](./algorithms/java/37_soduku_solver/README.md)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./algorithms/cpp/39_combination_sum/CombSum.cpp) [Java](./algorithms/java/39_combination_sum/CombinationSum.java)|[medium](./algorithms/java/39_combination_sum/README.md)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](./algorithms/cpp/40_combination_sum2/CombSum.cpp) [Java](./algorithms/java/40_combination_sum_2/CombinationSum.java)|[medium](./algorithms/java/40_combination_sum_2/README.md)|
+|41|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./algorithms/cpp/42_trapping_rain_water/RainWater.cpp)|[hard](./algorithms/cpp/42_trapping_rain_water/README.md)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./algorithms/java/45_jump_game_2/JumpGame.java)|[hard](./algorithms/java/45_jump_game_2/README.md)|
 |46|[Permutation](https://leetcode.com/problems/permutations/)|[Java](./algorithms/java/46_permutations/Permutation.java)|[medium](./algorithms/java/46_permutations/README.md)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](./algorithms/java/47_permutation_2/Permutation.java)|[medium](./algorithms/java/47_permutation_2/README.md)|
