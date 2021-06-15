@@ -47,6 +47,8 @@ Code
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./algorithms/cpp/53_maximum_subarray/MaxSubarray.cpp) [Java](./algorithms/java/53_maximum_subarray/MaxSubarray.java)|[easy](./algorithms/java/53_maximum_subarray/README.md)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./algorithms/cpp/54_spiral_matrix/Spiral.cpp)|[medium](./algorithms/cpp/54_spiral_matrix/README.md)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/java/55_jump_game/JumpGame.java)|[medium](./algorithms/java/55_jump_game/README.md)|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./algorithms/cpp/56_merge_intervals/Merge.cpp)|[medium](./algorithms/cpp/56_merge_intervals/README.md)|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./algorithms/cpp/56_merge_intervals/Merge.cpp)|[medium](./)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/java/61_rotate_list/RotateList.java)|[medium](./algorithms/java/61_rotate_list/README.md)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./algorithms/java/69_sqrtx/Sqrt.java)|[easy](./algorithms/java/69_sqrtx/README.md)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/java/72_edit_distance/EditDistance.java)|[hard](./algorithms/java/72_edit_distance/README.md)|
