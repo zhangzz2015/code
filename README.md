@@ -39,7 +39,7 @@ Code
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./algorithms/cpp/42_trapping_rain_water/RainWater.cpp)|[hard](./algorithms/cpp/42_trapping_rain_water/README.md)|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[C++](./algorithms/cpp/44_wildcard_matching/Wildcard.cpp)|[hard](./algorithms/cpp/44_wildcard_matching/README.md)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](./algorithms/cpp/45_jump_game2/JumpGame.cpp) [Java](./algorithms/java/45_jump_game_2/JumpGame.java)|[hard](./algorithms/java/45_jump_game_2/README.md)|
-|46|[Permutation](https://leetcode.com/problems/permutations/)|[Java](./algorithms/java/46_permutations/Permutation.java)|[medium](./algorithms/java/46_permutations/README.md)|
+|46|[Permutation](https://leetcode.com/problems/permutations/)|[C++](./algorithms/cpp/46_permutations/Permutations.cpp) [Java](./algorithms/java/46_permutations/Permutation.java)|[medium](./algorithms/java/46_permutations/README.md)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](./algorithms/java/47_permutation_2/Permutation.java)|[medium](./algorithms/java/47_permutation_2/README.md)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./algorithms/cpp/48_rotate_image/RotateImage.cpp)|[medium](./algorithms/cpp/48_rotate_image/README.md)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](algorithms/cpp/49_group_anagrams/GroupAnagrams.cpp) [Java](./algorithms/java/49_group_anagrams/GroupAnagrams.java)|[medium](./algorithms/cpp/49_group_anagrams/README.md)|
