@@ -38,7 +38,7 @@ Code
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./algorithms/cpp/41_first_missing_positive/FirstMissing.cpp)|[hard](./algorithms/cpp/41_first_missing_positive/README.md)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[C++](./algorithms/cpp/42_trapping_rain_water/RainWater.cpp)|[hard](./algorithms/cpp/42_trapping_rain_water/README.md)|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[C++](./algorithms/cpp/44_wildcard_matching/Wildcard.cpp)|[hard](./algorithms/cpp/44_wildcard_matching/README.md)|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./algorithms/java/45_jump_game_2/JumpGame.java)|[hard](./algorithms/java/45_jump_game_2/README.md)|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[C++](./algorithms/cpp/45_jump_game2/JumpGame.cpp) [Java](./algorithms/java/45_jump_game_2/JumpGame.java)|[hard](./algorithms/java/45_jump_game_2/README.md)|
 |46|[Permutation](https://leetcode.com/problems/permutations/)|[Java](./algorithms/java/46_permutations/Permutation.java)|[medium](./algorithms/java/46_permutations/README.md)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](./algorithms/java/47_permutation_2/Permutation.java)|[medium](./algorithms/java/47_permutation_2/README.md)|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./algorithms/cpp/48_rotate_image/RotateImage.cpp)|[medium](./algorithms/cpp/48_rotate_image/README.md)|
