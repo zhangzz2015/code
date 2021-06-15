@@ -45,6 +45,7 @@ Code
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](algorithms/cpp/49_group_anagrams/GroupAnagrams.cpp) [Java](./algorithms/java/49_group_anagrams/GroupAnagrams.java)|[medium](./algorithms/cpp/49_group_anagrams/README.md)|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./algorithms/java/51_n-queens/NQueens.java)|[hard](./algorithms/java/51_n-queens/README.md)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./algorithms/cpp/53_maximum_subarray/MaxSubarray.cpp) [Java](./algorithms/java/53_maximum_subarray/MaxSubarray.java)|[easy](./algorithms/java/53_maximum_subarray/README.md)|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./algorithms/cpp/54_spiral_matrix/Spiral.cpp)|[medium](./algorithms/cpp/54_spiral_matrix/README.md)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/java/55_jump_game/JumpGame.java)|[medium](./algorithms/java/55_jump_game/README.md)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/java/61_rotate_list/RotateList.java)|[medium](./algorithms/java/61_rotate_list/README.md)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./algorithms/java/69_sqrtx/Sqrt.java)|[easy](./algorithms/java/69_sqrtx/README.md)|
