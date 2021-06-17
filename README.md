@@ -49,7 +49,7 @@ Code
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/java/55_jump_game/JumpGame.java)|[medium](./algorithms/java/55_jump_game/README.md)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./algorithms/cpp/56_merge_intervals/Merge.cpp)|[medium](./algorithms/cpp/56_merge_intervals/README.md)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](./algorithms/cpp/57_insert_interval/Insert.cpp)|[medium](./algorithms/cpp/57_insert_interval/README.md)|
-|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/java/61_rotate_list/RotateList.java)|[medium](./algorithms/java/61_rotate_list/README.md)|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./algorithms/cpp/61_rotate_list/Rotate.cpp) [Java](./algorithms/java/61_rotate_list/RotateList.java)|[medium](./algorithms/java/61_rotate_list/README.md)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./algorithms/java/69_sqrtx/Sqrt.java)|[easy](./algorithms/java/69_sqrtx/README.md)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/java/72_edit_distance/EditDistance.java)|[hard](./algorithms/java/72_edit_distance/README.md)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/java/74_search_a_2d_matrix/SearchMatrix.java)|[medium](./algorithms/java/74_search_a_2d_matrix/README.md)|
