@@ -51,6 +51,7 @@ Code
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](./algorithms/cpp/57_insert_interval/Insert.cpp)|[medium](./algorithms/cpp/57_insert_interval/README.md)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./algorithms/cpp/61_rotate_list/Rotate.cpp) [Java](./algorithms/java/61_rotate_list/RotateList.java)|[medium](./algorithms/java/61_rotate_list/README.md)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./algorithms/cpp/62_unique_paths/Unique.cpp)|[medium](./algorithms/cpp/62_unique_paths/README.md)|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[C++](./algorithms/cpp/63_unique_paths2/Unique.cpp)|[medium](./algorithms/cpp/63_unique_paths2/README.md)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./algorithms/java/69_sqrtx/Sqrt.java)|[easy](./algorithms/java/69_sqrtx/README.md)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/java/72_edit_distance/EditDistance.java)|[hard](./algorithms/java/72_edit_distance/README.md)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/java/74_search_a_2d_matrix/SearchMatrix.java)|[medium](./algorithms/java/74_search_a_2d_matrix/README.md)|
