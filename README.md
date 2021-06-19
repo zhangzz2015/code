@@ -55,7 +55,7 @@ Code
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[C++](./algorithms/cpp/64_minimum_path_sum/MinPathSum.cpp)|[medium](./algorithms/cpp/64_minimum_path_sum/README.md)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./algorithms/java/69_sqrtx/Sqrt.java)|[easy](./algorithms/java/69_sqrtx/README.md)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[C++](./algorithms/cpp/71_simplify_path/Simplify.cpp)|[medium](./algorithms/cpp/71_simplify_path/README.md)|
-|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/java/72_edit_distance/EditDistance.java)|[hard](./algorithms/java/72_edit_distance/README.md)|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[C++](./algorithms/cpp/72_edit_distance/EditDis.cpp) [Java](./algorithms/java/72_edit_distance/EditDistance.java)|[hard](./algorithms/java/72_edit_distance/README.md)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/java/74_search_a_2d_matrix/SearchMatrix.java)|[medium](./algorithms/java/74_search_a_2d_matrix/README.md)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./algorithms/java/75_sort_colors/SortColors.java)|[medium](./algorithms/java/75_sort_colors/README.md)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./algorithms/cpp/76_minimum_window_substring/MinWindowSubstr.cpp)|[hard](./algorithms/cpp/76_minimum_window_substring/README.md)|
