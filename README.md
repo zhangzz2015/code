@@ -58,6 +58,7 @@ Code
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/java/72_edit_distance/EditDistance.java)|[hard](./algorithms/java/72_edit_distance/README.md)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/java/74_search_a_2d_matrix/SearchMatrix.java)|[medium](./algorithms/java/74_search_a_2d_matrix/README.md)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./algorithms/java/75_sort_colors/SortColors.java)|[medium](./algorithms/java/75_sort_colors/README.md)|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./algorithms/cpp/76_minimum_window_substring/MinWindowSubstr.cpp)|[hard](./algorithms/cpp/76_minimum_window_substring/README.md)|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Java](./algorithms/java/77_combinations/Combninations.java)|[medium](./algorithms/java/77_combinations/README.md)|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](./algorithms/java/78_subsets/Subsets.java)|[medium](./algorithms/java/78_subsets/README.md)|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Java](./algorithms/java/79_word_search/WordSearch.java)|[medium](./algorithms/java/79_word_search/README.md)|
