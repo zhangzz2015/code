@@ -59,7 +59,7 @@ Code
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](./algorithms/cpp/74_search_2d_matrix/Search.cpp) [Java](./algorithms/java/74_search_a_2d_matrix/SearchMatrix.java)|[medium](./algorithms/java/74_search_a_2d_matrix/README.md)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./algorithms/java/75_sort_colors/SortColors.java)|[medium](./algorithms/java/75_sort_colors/README.md)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./algorithms/cpp/76_minimum_window_substring/MinWindowSubstr.cpp)|[hard](./algorithms/cpp/76_minimum_window_substring/README.md)|
-|77|[Combinations](https://leetcode.com/problems/combinations/)|[Java](./algorithms/java/77_combinations/Combninations.java)|[medium](./algorithms/java/77_combinations/README.md)|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[C++](./algorithms/cpp/77_combinations/Combinations.cpp) [Java](./algorithms/java/77_combinations/Combninations.java)|[medium](./algorithms/java/77_combinations/README.md)|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[Java](./algorithms/java/78_subsets/Subsets.java)|[medium](./algorithms/java/78_subsets/README.md)|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Java](./algorithms/java/79_word_search/WordSearch.java)|[medium](./algorithms/java/79_word_search/README.md)|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/81_search_in_rotated_sorted_array_2/RotatedSearch.java)|[medium](./algorithms/java/81_search_in_rotated_sorted_array_2/README.md)|
