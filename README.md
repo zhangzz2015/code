@@ -61,7 +61,7 @@ Code
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./algorithms/cpp/76_minimum_window_substring/MinWindowSubstr.cpp)|[hard](./algorithms/cpp/76_minimum_window_substring/README.md)|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[C++](./algorithms/cpp/77_combinations/Combinations.cpp) [Java](./algorithms/java/77_combinations/Combninations.java)|[medium](./algorithms/java/77_combinations/README.md)|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|[C++](./algorithms/cpp/78_subsets/Subsets.cpp) [Java](./algorithms/java/78_subsets/Subsets.java)|[medium](./algorithms/java/78_subsets/README.md)|
-|79|[Word Search](https://leetcode.com/problems/word-search/)|[Java](./algorithms/java/79_word_search/WordSearch.java)|[medium](./algorithms/java/79_word_search/README.md)|
+|79|[Word Search](https://leetcode.com/problems/word-search/)|[C++](./algorithms/cpp/79_word_search/Search.cpp) [Java](./algorithms/java/79_word_search/WordSearch.java)|[medium](./algorithms/java/79_word_search/README.md)|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./algorithms/java/81_search_in_rotated_sorted_array_2/RotatedSearch.java)|[medium](./algorithms/java/81_search_in_rotated_sorted_array_2/README.md)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](./algorithms/java/90_subsets_2/Subsets.java)|[medium](./algorithms/java/90_subsets_2/README.md)|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Java](./algorithms/java/93_restore_ip_addresses/RestoreIP.java)|[medium](./algorithms/java/93_restore_ip_addresses/README.md)|
