@@ -68,6 +68,7 @@ Code
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./algorithms/cpp/83_remove_duplicates_list/Remove.cpp)|[easy](./algorithms/cpp/83_remove_duplicates_list/README.md)|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](./algorithms/cpp/84_largest_rectangle_histogram/Histogram.cpp)|[hard](./algorithms/cpp/84_largest_rectangle_histogram/README.md)|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](./algorithms/cpp/85_maximal_rectangle/MaxRectangle.cpp)|[hard](./algorithms/cpp/85_maximal_rectangle/README.md)|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|[C++](./algorithms/cpp/86_partition_list/Partition.cpp)|[medium](./algorithms/cpp/86_partition_list/README.md)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](./algorithms/java/90_subsets_2/Subsets.java)|[medium](./algorithms/java/90_subsets_2/README.md)|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Java](./algorithms/java/93_restore_ip_addresses/RestoreIP.java)|[medium](./algorithms/java/93_restore_ip_addresses/README.md)|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[Java](./algorithms/java/99_recover_binary_search_tree/Recover.java)|[hard](./algorithms/java/99_recover_binary_search_tree/README.md)|
