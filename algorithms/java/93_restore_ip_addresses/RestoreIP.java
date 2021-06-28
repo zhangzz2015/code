@@ -18,13 +18,13 @@ class RestoreIP {
 		int count = 0;
 		for (int i = index; i < Math.min(index + 3, s.length()); i++) {
 			count = count * 10 + s.charAt(i) - '0';
-			if (count >= 0 && count <= 255) {
+			if (count <= 255) {
 				int len = sb.length();
 				sb.append(count).append(".");
 				dfs(res, sb, s, i + 1, part + 1);
 				sb.setLength(len);
 			}
-			if (count == 9 && i == index) break;
+			if (count == 0 && i == index) break;
 		}
 	}
 }
