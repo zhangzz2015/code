@@ -19,7 +19,7 @@ public:
                 if (cur->right)
                     queue.push(cur->right);
             }
-            res.emplace_back(cur_level);
+            res.push_back(cur_level);
         }
         return res;
 	}
