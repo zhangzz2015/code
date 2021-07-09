@@ -8,25 +8,22 @@ public class Convert {
         if (head == null) return null;
         if (head.next == null) return new TreeNode(head.val);
         ListNode mid = findMid(head);
-        ListNode cur = mid.next;
-        ListNode right = cur.next;
-        mid.next = null;
-        cur.next = null;
-        TreeNode root = new TreeNode(head.val);
+        TreeNode root = new TreeNode(mid.val);
         root.left = construct(head);
-        root.right = construct(right);
+        root.right = construct(mid.next);
         return root;
     }
     private ListNode findMid(ListNode head) {
         ListNode slow = head;
-        ListNode prev = null;
+        ListNode prev = head;
         ListNode fast = head;
-        while (fast.next != null && fast.next.next != null) {
+        while (fast != null && fast.next != null) {
             prev = slow;
             slow = slow.next;
             fast = fast.next.next;
         }
-        return prev;
+		prev->next = null;
+        return slow;
     }
 
     // 3. use a global pointer to inorder traverse linkedlist pointing to the root
