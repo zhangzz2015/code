@@ -1,9 +1,6 @@
 class Triangle {
 public:
 	int minimumTotal(vector<vector<int>>& triangle) {
-        if (triangle.size() == 1) {
-            return triangle[0][0];
-        }
         int m = triangle.size();
         vector<vector<int>> dp(m, vector<int>(m, 0));
         for (int i = 0; i < m; ++i) {
@@ -19,9 +16,6 @@ public:
 
 	// optimized
 	int minimumTotal_optimized(vector<vector<int>>& triangle) {
-        if (triangle.size() == 1) {
-            return triangle[0][0];
-        }
         int m = triangle.size();
         vector<int> dp(m, 0);
         for (int i = 0; i < m; ++i) {
